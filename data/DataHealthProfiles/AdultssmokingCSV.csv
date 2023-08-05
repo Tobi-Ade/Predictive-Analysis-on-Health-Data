@@ -1,0 +1,362 @@
+ONS Code (old),ONS Code (new),Area Name                                           ,ONS Cluster,Period,Aggregate Numerator,Aggregate Denominator,Single Year Numerator,Single Year Denominator,Indicator value,Lower 95% CI,Upper 95% CI,Significance
+Eng,E92000001,England,N/A,2011/12,n/a,n/a,,,19.96459697,19.7898538,20.13934014,n/a
+A,E12000001,North East,N/A,2011/12,,,,,21.23336618,20.61476423,21.85196814,Significantly worse than England average
+B,E12000002,North West,N/A,2011/12,,,,,22.06924752,21.61812286,22.52037217,Significantly worse than England average
+D,E12000003,Yorkshire and the Humber,N/A,2011/12,,,,,22.16263821,21.61159744,22.71367897,Significantly worse than England average
+E,E12000004,East Midlands,N/A,2011/12,,,,,19.82392955,19.15750105,20.49035806,Not significantly different from England average
+F,E12000005,West Midlands,N/A,2011/12,,,,,19.49722283,18.96913034,20.02531532,Not significantly different from England average
+G,E12000006,East of England,N/A,2011/12,,,,,19.55266064,18.96592946,20.13939182,Not significantly different from England average
+H,E12000007,London,N/A,2011/12,,,,,18.94632618,18.45941072,19.43324163,Significantly better than England average
+J,E12000008,South East,N/A,2011/12,,,,,18.56013495,18.12458948,18.99568041,Significantly better than England average
+K,E12000009,South West,N/A,2011/12,,,,,19.19105035,18.66504157,19.71705912,Significantly better than England average
+11,E10000002,Buckinghamshire CC,N/A,2011/12,,,,,15.38082081,13.55265983,17.20898179,Significantly better than England average
+12,E10000003,Cambridgeshire CC,N/A,2011/12,,,,,19.50386658,17.50597596,21.5017572,Not significantly different from England average
+16,E10000006,Cumbria CC,N/A,2011/12,,,,,21.66416431,19.64305018,23.68527844,Not significantly different from England average
+17,E10000007,Derbyshire CC,N/A,2011/12,,,,,18.5753941,16.74643913,20.40434907,Not significantly different from England average
+18,E10000008,Devon CC,N/A,2011/12,,,,,20.21287886,18.4340662,21.99169152,Not significantly different from England average
+19,E10000009,Dorset CC,N/A,2011/12,,,,,17.11713671,15.3334223,18.90085113,Significantly better than England average
+21,E10000011,East Sussex CC,N/A,2011/12,,,,,19.84395661,17.69484773,21.9930655,Not significantly different from England average
+22,E10000012,Essex CC,N/A,2011/12,,,,,18.69697929,17.34248613,20.05147245,Not significantly different from England average
+23,E10000013,Gloucestershire CC,N/A,2011/12,,,,,18.48025094,16.42791688,20.53258501,Not significantly different from England average
+24,E10000014,Hampshire CC,N/A,2011/12,,,,,17.5205452,16.14734497,18.89374543,Significantly better than England average
+26,E10000015,Hertfordshire CC,N/A,2011/12,,,,,19.44992996,17.90358477,20.99627514,Not significantly different from England average
+29,E10000016,Kent CC,N/A,2011/12,,,,,20.10589666,18.71504819,21.49674513,Not significantly different from England average
+30,E10000017,Lancashire CC,N/A,2011/12,,,,,21.18313044,19.66610715,22.70015373,Not significantly different from England average
+31,E10000018,Leicestershire CC,N/A,2011/12,,,,,17.06814068,15.31784791,18.81843346,Significantly better than England average
+32,E10000019,Lincolnshire CC,N/A,2011/12,,,,,20.98135699,19.16428754,22.79842645,Not significantly different from England average
+33,E10000020,Norfolk CC,N/A,2011/12,,,,,20.33180171,18.63213546,22.03146797,Not significantly different from England average
+34,E10000021,Northamptonshire CC,N/A,2011/12,,,,,20.85311037,18.84607025,22.86015049,Not significantly different from England average
+36,E10000023,North Yorkshire CC,N/A,2011/12,,,,,16.71232877,14.78932219,18.63533534,Significantly better than England average
+37,E10000024,Nottinghamshire CC,N/A,2011/12,,,,,19.73527157,17.89352964,21.5770135,Not significantly different from England average
+38,E10000025,Oxfordshire CC,N/A,2011/12,,,,,17.54045023,15.60935458,19.47154588,Significantly better than England average
+40,E10000027,Somerset CC,N/A,2011/12,,,,,19.15404043,17.15658725,21.15149362,Not significantly different from England average
+41,E10000028,Staffordshire CC,N/A,2011/12,,,,,19.13183871,17.46256412,20.80111331,Not significantly different from England average
+42,E10000029,Suffolk CC,N/A,2011/12,,,,,20.35165584,18.53746171,22.16584996,Not significantly different from England average
+43,E10000030,Surrey CC,N/A,2011/12,,,,,15.81418856,14.36013286,17.26824427,Significantly better than England average
+44,E10000031,Warwickshire CC,N/A,2011/12,,,,,19.06764547,17.01788938,21.11740157,Not significantly different from England average
+45,E10000032,West Sussex CC,N/A,2011/12,,,,,18.49779546,16.72556467,20.27002625,Not significantly different from England average
+47,E10000034,Worcestershire CC,N/A,2011/12,,,,,18.42786217,16.38593812,20.46978622,Not significantly different from England average
+00AB,E09000002,Barking and Dagenham LB,ONS1.2,2011/12,,,,,22.9686888,19.92770471,26.0096729,Not significantly different from England average
+00AC,E09000003,Barnet LB,ONS2.4,2011/12,,,,,17.48814698,14.69198052,20.28431343,Not significantly different from England average
+00AD,E09000004,Bexley LB,ONS5.8,2011/12,,,,,19.26991253,16.34173594,22.19808913,Not significantly different from England average
+00AE,E09000005,Brent LB,ONS4.6,2011/12,,,,,18.18304011,15.68928828,20.67679195,Not significantly different from England average
+00AF,E09000006,Bromley LB,ONS1.3,2011/12,,,,,18.11625356,15.36524697,20.86726015,Not significantly different from England average
+00AG,E09000007,Camden LB,ONS3.5,2011/12,,,,,17.30474732,14.4922858,20.11720884,Not significantly different from England average
+00AH,E09000008,Croydon LB,ONS2.4,2011/12,,,,,19.67322558,16.65406017,22.69239099,Not significantly different from England average
+00AJ,E09000009,Ealing LB,ONS2.4,2011/12,,,,,20.11579724,17.08038453,23.15120994,Not significantly different from England average
+00AK,E09000010,Enfield LB,ONS2.4,2011/12,,,,,18.47281001,15.79193942,21.1536806,Not significantly different from England average
+00AL,E09000011,Greenwich LB,ONS2.4,2011/12,,,,,17.92554445,15.3269798,20.52410909,Not significantly different from England average
+00AM,E09000012,Hackney LB,ONS4.6,2011/12,,,,,25.24286415,22.31210257,28.17362573,Significantly worse than England average
+00AN,E09000013,Hammersmith and Fulham LB,ONS3.5,2011/12,,,,,20.66847709,17.89182046,23.44513373,Not significantly different from England average
+00AP,E09000014,Haringey LB,ONS4.6,2011/12,,,,,18.76102522,15.83740278,21.68464765,Not significantly different from England average
+00AQ,E09000015,Harrow LB,ONS2.4,2011/12,,,,,14.63592978,12.51799834,16.75386123,Significantly better than England average
+00AR,E09000016,Havering LB,ONS5.8,2011/12,,,,,20.035651,16.97260101,23.09870098,Not significantly different from England average
+00AS,E09000017,Hillingdon LB,ONS1.3,2011/12,,,,,17.63941064,15.10371008,20.17511121,Not significantly different from England average
+00AT,E09000018,Hounslow LB,ONS2.4,2011/12,,,,,15.29228405,12.89651921,17.68804889,Significantly better than England average
+00AU,E09000019,Islington LB,ONS3.5,2011/12,,,,,21.83574761,18.8428721,24.82862312,Not significantly different from England average
+00AW,E09000020,Kensington and Chelsea LB,ONS3.5,2011/12,,,,,18.05151766,15.48091967,20.62211565,Not significantly different from England average
+00AX,E09000021,Kingston upon Thames LB,ONS1.3,2011/12,,,,,18.30452268,15.62480347,20.98424189,Not significantly different from England average
+00AY,E09000022,Lambeth LB,ONS4.6,2011/12,,,,,20.14614173,17.26207331,23.03021015,Not significantly different from England average
+00AZ,E09000023,Lewisham LB,ONS4.6,2011/12,,,,,22.07418754,18.8173576,25.33101747,Not significantly different from England average
+00BA,E09000024,Merton LB,ONS2.4,2011/12,,,,,16.47645203,13.99707164,18.95583242,Significantly better than England average
+00BB,E09000025,Newham LB,ONS4.6,2011/12,,,,,18.79069391,16.26504706,21.31634076,Not significantly different from England average
+00BC,E09000026,Redbridge LB,ONS2.4,2011/12,,,,,16.11418004,13.6128822,18.61547788,Significantly better than England average
+00BD,E09000027,Richmond upon Thames LB,ONS1.3,2011/12,,,,,19.74489045,16.66798398,22.82179692,Not significantly different from England average
+00BE,E09000028,Southwark LB,ONS4.6,2011/12,,,,,17.50876149,14.8784904,20.13903259,Not significantly different from England average
+00BF,E09000029,Sutton LB,ONS1.3,2011/12,,,,,17.6864902,14.74640227,20.62657814,Not significantly different from England average
+00BG,E09000030,Tower Hamlets LB,ONS3.5,2011/12,,,,,21.48664466,18.7023897,24.27089962,Not significantly different from England average
+00BH,E09000031,Waltham Forest LB,ONS2.4,2011/12,,,,,19.37420064,16.60051216,22.14788912,Not significantly different from England average
+00BJ,E09000032,Wandsworth LB,ONS3.5,2011/12,,,,,16.16079463,13.39818948,18.92339977,Significantly better than England average
+00BK,E09000033,City of Westminster LB,ONS3.5,2011/12,,,,,21.5458558,18.74538711,24.3463245,Not significantly different from England average
+00BL,E08000001,Bolton MCD,ONS1.2,2011/12,,,,,22.87854409,20.59248272,25.16460546,Significantly worse than England average
+00BM,E08000002,Bury MCD,ONS5.7,2011/12,,,,,21.99108677,19.6857165,24.29645704,Not significantly different from England average
+00BN,E08000003,Manchester MCD,ONS1.2,2011/12,,,,,27.24883185,25.11080821,29.38685549,Significantly worse than England average
+00BP,E08000004,Oldham MCD,ONS1.2,2011/12,,,,,24.94426645,22.71017274,27.17836016,Significantly worse than England average
+00BQ,E08000005,Rochdale MCD,ONS1.2,2011/12,,,,,23.6044253,21.52817863,25.68067198,Significantly worse than England average
+00BR,E08000006,Salford MCD,ONS1.1,2011/12,,,,,25.37740905,23.16106416,27.59375395,Significantly worse than England average
+00BS,E08000007,Stockport MCD,ONS5.7,2011/12,,,,,21.45518104,19.27739801,23.63296407,Not significantly different from England average
+00BT,E08000008,Tameside MCD,ONS7.11,2011/12,,,,,24.09403126,21.63721726,26.55084527,Significantly worse than England average
+00BU,E08000009,Trafford MCD,ONS5.7,2011/12,,,,,19.48658666,17.38218316,21.59099016,Not significantly different from England average
+00BW,E08000010,Wigan MCD,ONS7.12,2011/12,,,,,22.76370265,20.50592948,25.02147581,Significantly worse than England average
+00BX,E08000011,Knowsley MCD,ONS7.11,2011/12,,,,,27.57830883,25.27559509,29.88102257,Significantly worse than England average
+00BY,E08000012,Liverpool MCD,ONS1.1,2011/12,,,,,24.20434711,22.03891079,26.36978343,Significantly worse than England average
+00BZ,E08000013,St Helens MCD,ONS7.11,2011/12,,,,,20.65997334,18.53612055,22.78382613,Not significantly different from England average
+00CA,E08000014,Sefton MCD,ONS7.11,2011/12,,,,,18.34490223,16.17129145,20.51851301,Not significantly different from England average
+00CB,E08000015,Wirral MCD,ONS7.11,2011/12,,,,,21.82090539,19.73277179,23.90903899,Not significantly different from England average
+00CC,E08000016,Barnsley MCD,ONS7.12,2011/12,,,,,25.62505556,23.41501121,27.83509992,Significantly worse than England average
+00CE,E08000017,Doncaster MCD,ONS7.12,2011/12,,,,,26.97873127,24.77120545,29.18625709,Significantly worse than England average
+00CF,E08000018,Rotherham MCD,ONS7.12,2011/12,,,,,23.3051939,21.20921977,25.40116804,Significantly worse than England average
+00CG,E08000019,Sheffield MCD,ONS1.1,2011/12,,,,,21.56988494,19.41763563,23.72213424,Not significantly different from England average
+00CH,E08000020,Gateshead MCD,ONS7.11,2011/12,,,,,21.31811273,19.15958942,23.47663604,Not significantly different from England average
+00CJ,E08000021,Newcastle upon Tyne MCD,ONS1.1,2011/12,,,,,23.58424435,21.24479715,25.92369154,Significantly worse than England average
+00CK,E08000022,North Tyneside MCD,ONS7.11,2011/12,,,,,22.56512973,20.31093273,24.81932673,Significantly worse than England average
+00CL,E08000023,South Tyneside MCD,ONS7.11,2011/12,,,,,21.61477767,19.52543472,23.70412063,Not significantly different from England average
+00CM,E08000024,Sunderland MCD,ONS7.11,2011/12,,,,,22.12848655,20.01358392,24.24338918,Significantly worse than England average
+00CN,E08000025,Birmingham MCD,ONS1.2,2011/12,,,,,19.30724245,17.61053788,21.00394703,Not significantly different from England average
+00CQ,E08000026,Coventry MCD,ONS1.2,2011/12,,,,,18.17571568,16.23055955,20.12087181,Not significantly different from England average
+00CR,E08000027,Dudley MCD,ONS7.12,2011/12,,,,,19.08495849,16.95772596,21.21219103,Not significantly different from England average
+00CS,E08000028,Sandwell MCD,ONS1.2,2011/12,,,,,22.87843804,20.89444296,24.86243313,Significantly worse than England average
+00CT,E08000029,Solihull MCD,ONS5.7,2011/12,,,,,13.24757788,11.53196426,14.96319151,Significantly better than England average
+00CU,E08000030,Walsall MCD,ONS1.2,2011/12,,,,,22.72026254,20.49077198,24.94975311,Significantly worse than England average
+00CW,E08000031,Wolverhampton MCD,ONS1.2,2011/12,,,,,22.15840805,20.15140398,24.16541212,Significantly worse than England average
+00CX,E08000032,Bradford MCD,ONS1.2,2011/12,,,,,21.45181846,19.33456623,23.56907069,Not significantly different from England average
+00CY,E08000033,Calderdale MCD,ONS1.2,2011/12,,,,,22.00267125,19.80899084,24.19635166,Not significantly different from England average
+00CZ,E08000034,Kirklees MCD,ONS1.2,2011/12,,,,,23.58167799,21.28372665,25.87962932,Significantly worse than England average
+00DA,E08000035,Leeds MCD,ONS1.1,2011/12,,,,,23.04671508,21.16198194,24.93144823,Significantly worse than England average
+00DB,E08000036,Wakefield MCD,ONS7.12,2011/12,,,,,23.02153767,20.86730407,25.17577126,Significantly worse than England average
+00EB,E06000001,Hartlepool UA,ONS7.11,2011/12,,,,,23.52671883,21.34495214,25.70848552,Significantly worse than England average
+00EC,E06000002,Middlesbrough UA,ONS7.11,2011/12,,,,,24.70792504,22.51418272,26.90166737,Significantly worse than England average
+00EE,E06000003,Redcar and Cleveland UA,ONS7.11,2011/12,,,,,21.65232225,19.49324694,23.81139755,Not significantly different from England average
+00EF,E06000004,Stockton-on-Tees UA,ONS7.12,2011/12,,,,,17.79814154,15.81977391,19.77650917,Significantly better than England average
+00EH,E06000005,Darlington UA,ONS7.11,2011/12,,,,,23.3053917,21.062541,25.54824241,Significantly worse than England average
+00EJ,E06000047,County Durham UA,ONS7.11,2011/12,,,,,20.86635381,18.73316864,22.99953898,Not significantly different from England average
+00EM,E06000048,Northumberland UA,ONS5.7,2011/12,,,,,16.76730181,14.75196479,18.78263884,Significantly better than England average
+00EQ,E06000049,Cheshire East UA,ONS5.7,2011/12,,,,,15.29339776,12.95741693,17.62937859,Significantly better than England average
+00ET,E06000006,Halton UA,ONS7.11,2011/12,,,,,23.1173153,20.80953199,25.4250986,Significantly worse than England average
+00EU,E06000007,Warrington UA,ONS5.7,2011/12,,,,,14.40783866,12.43726547,16.37841186,Significantly better than England average
+00EW,E06000050,Cheshire West and Chester UA,ONS5.7,2011/12,,,,,19.47266121,16.69541181,22.24991061,Not significantly different from England average
+00EX,E06000008,Blackburn with Darwen UA,ONS1.2,2011/12,,,,,27.16627635,24.79868066,29.53387204,Significantly worse than England average
+00EY,E06000009,Blackpool UA,ONS6.10,2011/12,,,,,25.89391965,23.68952625,28.09831304,Significantly worse than England average
+00FA,E06000010,Kingston upon Hull UA,ONS7.11,2011/12,,,,,29.31699491,26.96250909,31.67148074,Significantly worse than England average
+00FB,E06000011,East Riding of Yorkshire UA,ONS5.7,2011/12,,,,,17.20676487,15.23803667,19.17549306,Significantly better than England average
+00FC,E06000012,North East Lincolnshire UA,ONS7.12,2011/12,,,,,27.3486377,24.96817158,29.72910381,Significantly worse than England average
+00FD,E06000013,North Lincolnshire UA,ONS7.12,2011/12,,,,,22.86537966,20.65994399,25.07081533,Significantly worse than England average
+00FF,E06000014,York UA,ONS5.7,2011/12,,,,,17.11632075,15.03904517,19.19359632,Significantly better than England average
+00FK,E06000015,Derby UA,ONS1.2,2011/12,,,,,19.45195907,17.43324417,21.47067397,Not significantly different from England average
+00FN,E06000016,Leicester UA,ONS1.2,2011/12,,,,,21.37718573,19.28495479,23.46941666,Not significantly different from England average
+00FP,E06000017,Rutland UA,ONS5.7,2011/12,,,,,15.72601782,12.22764939,19.22438626,Significantly better than England average
+00FY,E06000018,Nottingham UA,ONS1.2,2011/12,,,,,23.33554622,21.2439686,25.42712385,Significantly worse than England average
+00GA,E06000019,County of Herefordshire UA,ONS5.7,2011/12,,,,,17.41818057,15.41856888,19.41779226,Significantly better than England average
+00GF,E06000020,Telford and Wrekin UA,ONS7.12,2011/12,,,,,22.38108106,20.2124324,24.54972972,Significantly worse than England average
+00GG,E06000051,Shropshire UA,ONS5.7,2011/12,,,,,17.37617366,15.40814779,19.34419953,Significantly better than England average
+00GL,E06000021,Stoke-on-Trent UA,ONS7.11,2011/12,,,,,25.34496405,23.01851546,27.67141264,Significantly worse than England average
+00HA,E06000022,Bath and North East Somerset UA,ONS5.7,2011/12,,,,,16.42763212,14.3808951,18.47436914,Significantly better than England average
+00HB,E06000023,Bristol UA,ONS1.1,2011/12,,,,,20.95491022,18.70139297,23.20842747,Not significantly different from England average
+00HC,E06000024,North Somerset UA,ONS5.7,2011/12,,,,,16.33869971,14.32888766,18.34851176,Significantly better than England average
+00HD,E06000025,South Gloucestershire UA,ONS5.7,2011/12,,,,,16.51525403,14.39749123,18.63301684,Significantly better than England average
+00HE,E06000052,Cornwall UA,ONS6.10,2011/12,,,,,21.39011922,19.40488494,23.3753535,Not significantly different from England average
+00HG,E06000026,Plymouth UA,ONS1.1,2011/12,,,,,22.13808313,20.00108264,24.27508363,Significantly worse than England average
+00HH,E06000027,Torbay UA,ONS6.10,2011/12,,,,,21.31793673,19.24254191,23.39333155,Not significantly different from England average
+00HN,E06000028,Bournemouth UA,ONS1.1,2011/12,,,,,19.00920579,17.0695279,20.94888368,Not significantly different from England average
+00HP,E06000029,Poole UA,ONS5.7,2011/12,,,,,18.25879908,16.25009647,20.26750169,Not significantly different from England average
+00HX,E06000030,Swindon UA,ONS5.8,2011/12,,,,,21.15107115,18.78456771,23.5175746,Not significantly different from England average
+00HY,E06000054,Wiltshire UA,ONS5.7,2011/12,,,,,17.14997236,15.08573541,19.21420931,Significantly better than England average
+00JA,E06000031,Peterborough UA,ONS5.8,2011/12,,,,,23.69995818,21.31078869,26.08912767,Significantly worse than England average
+00KA,E06000032,Luton UA,ONS2.4,2011/12,,,,,20.5455886,18.2811469,22.8100303,Not significantly different from England average
+00KB,E06000055,Bedford UA,ONS5.8,2011/12,,,,,16.32495909,12.96562179,19.68429639,Significantly better than England average
+00KC,E06000056,Central Bedfordshire UA,ONS5.7,2011/12,,,,,16.07725018,13.5286579,18.62584246,Significantly better than England average
+00KF,E06000033,Southend-on-Sea UA,ONS1.1,2011/12,,,,,22.35729556,20.17168226,24.54290885,Significantly worse than England average
+00KG,E06000034,Thurrock UA,ONS5.8,2011/12,,,,,20.63546349,18.34285787,22.92806911,Not significantly different from England average
+00LC,E06000035,Medway UA,ONS5.8,2011/12,,,,,23.62889099,21.41154873,25.84623324,Significantly worse than England average
+00MA,E06000036,Bracknell Forest UA,ONS5.9,2011/12,,,,,19.39313695,17.22202909,21.56424481,Not significantly different from England average
+00MB,E06000037,West Berkshire UA,ONS5.9,2011/12,,,,,18.43838038,16.31637223,20.56038854,Not significantly different from England average
+00MC,E06000038,Reading UA,ONS1.3,2011/12,,,,,18.84013377,16.69875171,20.98151582,Not significantly different from England average
+00MD,E06000039,Slough UA,ONS2.4,2011/12,,,,,23.85274311,21.62185206,26.08363416,Significantly worse than England average
+00ME,E06000040,Windsor and Maidenhead UA,ONS5.9,2011/12,,,,,14.83452945,12.74536638,16.92369252,Significantly better than England average
+00MF,E06000041,Wokingham UA,ONS5.9,2011/12,,,,,13.78289552,11.80507175,15.76071929,Significantly better than England average
+00MG,E06000042,Milton Keynes UA,ONS5.8,2011/12,,,,,18.01959073,15.90236715,20.1368143,Not significantly different from England average
+00ML,E06000043,Brighton and Hove UA,ONS1.1,2011/12,,,,,22.85304646,20.6023247,25.10376821,Significantly worse than England average
+00MR,E06000044,Portsmouth UA,ONS1.1,2011/12,,,,,22.93287291,20.64048224,25.22526357,Significantly worse than England average
+00MS,E06000045,Southampton UA,ONS1.1,2011/12,,,,,22.64322855,20.43504652,24.85141058,Significantly worse than England average
+00MW,E06000046,Isle of Wight UA,ONS6.10,2011/12,,,,,20.44120773,18.52417743,22.35823803,Not significantly different from England average
+11UB,E07000004,Aylesbury Vale CD,ONS5.9,2011/12,,,,,15.19778794,12.12392706,18.27164883,Significantly better than England average
+11UC,E07000005,Chiltern CD,ONS5.9,2011/12,,,,,12.99113073,9.211716282,16.77054517,Significantly better than England average
+11UE,E07000006,South Bucks CD,ONS5.9,2011/12,,,,,13.42419205,8.284287261,18.56409683,Significantly better than England average
+11UF,E07000007,Wycombe CD,ONS5.9,2011/12,,,,,17.71597392,14.36596409,21.06598375,Not significantly different from England average
+12UB,E07000008,Cambridge CD,ONS1.3,2011/12,,,,,15.2447424,10.73445177,19.75503303,Significantly better than England average
+12UC,E07000009,East Cambridgeshire CD,ONS5.7,2011/12,,,,,13.24910538,8.550474467,17.9477363,Significantly better than England average
+12UD,E07000010,Fenland CD,ONS5.7,2011/12,,,,,25.53465807,19.33423408,31.73508207,Not significantly different from England average
+12UE,E07000011,Huntingdonshire CD,ONS5.7,2011/12,,,,,22.12869449,18.31437561,25.94301337,Not significantly different from England average
+12UG,E07000012,South Cambridgeshire CD,ONS5.9,2011/12,,,,,19.93549305,16.12366455,23.74732156,Not significantly different from England average
+16UB,E07000026,Allerdale CD,ONS6.10,2011/12,,,,,22.55946844,17.86087494,27.25806194,Not significantly different from England average
+16UC,E07000027,Barrow-in-Furness CD,ONS7.11,2011/12,,,,,24.4243911,18.77264967,30.07613253,Not significantly different from England average
+16UD,E07000028,Carlisle CD,ONS6.10,2011/12,,,,,24.21949807,19.7183038,28.72069234,Not significantly different from England average
+16UE,E07000029,Copeland CD,ONS7.11,2011/12,,,,,28.43324078,22.1969422,34.66953935,Significantly worse than England average
+16UF,E07000030,Eden CD,ONS6.10,2011/12,,,,,13.70102442,7.963878863,19.43816998,Significantly better than England average
+16UG,E07000031,South Lakeland CD,ONS6.10,2011/12,,,,,15.71930082,12.07396652,19.36463512,Significantly better than England average
+17UB,E07000032,Amber Valley CD,ONS7.12,2011/12,,,,,19.84896189,14.60205861,25.09586518,Not significantly different from England average
+17UC,E07000033,Bolsover CD,ONS7.12,2011/12,,,,,25.20125776,18.92782257,31.47469295,Not significantly different from England average
+17UD,E07000034,Chesterfield CD,ONS7.12,2011/12,,,,,18.25125473,13.08799761,23.41451184,Not significantly different from England average
+17UF,E07000035,Derbyshire Dales CD,ONS5.7,2011/12,,,,,17.31278993,11.23751919,23.38806066,Not significantly different from England average
+17UG,E07000036,Erewash CD,ONS7.12,2011/12,,,,,18.19263179,13.6494495,22.73581408,Not significantly different from England average
+17UH,E07000037,High Peak CD,ONS5.7,2011/12,,,,,16.71349737,12.16961405,21.25738069,Not significantly different from England average
+17UJ,E07000038,North East Derbyshire CD,ONS7.12,2011/12,,,,,19.06991031,13.85487611,24.28494451,Not significantly different from England average
+17UK,E07000039,South Derbyshire CD,ONS5.7,2011/12,,,,,14.76485501,10.00065248,19.52905753,Significantly better than England average
+18UB,E07000040,East Devon CD,ONS6.10,2011/12,,,,,19.05808059,14.84587882,23.27028237,Not significantly different from England average
+18UC,E07000041,Exeter CD,ONS1.1,2011/12,,,,,18.68264246,13.86061154,23.50467338,Not significantly different from England average
+18UD,E07000042,Mid Devon CD,ONS5.7,2011/12,,,,,21.07550436,15.13379123,27.01721749,Not significantly different from England average
+18UE,E07000043,North Devon CD,ONS6.10,2011/12,,,,,22.36045439,17.24637123,27.47453755,Not significantly different from England average
+18UG,E07000044,South Hams CD,ONS6.10,2011/12,,,,,20.76518602,15.84409099,25.68628106,Not significantly different from England average
+18UH,E07000045,Teignbridge CD,ONS6.10,2011/12,,,,,22.71957157,18.19857757,27.24056557,Not significantly different from England average
+18UK,E07000046,Torridge CD,ONS6.10,2011/12,,,,,20.05344509,14.15464319,25.952247,Not significantly different from England average
+18UL,E07000047,West Devon CD,ONS6.10,2011/12,,,,,14.71987183,9.378059137,20.06168452,Not significantly different from England average
+19UC,E07000048,Christchurch CD,ONS6.10,2011/12,,,,,16.17654619,10.99474337,21.35834901,Not significantly different from England average
+19UD,E07000049,East Dorset CD,ONS5.7,2011/12,,,,,13.27108813,9.99509729,16.54707897,Significantly better than England average
+19UE,E07000050,North Dorset CD,ONS5.7,2011/12,,,,,21.05284974,16.07811541,26.02758407,Not significantly different from England average
+19UG,E07000051,Purbeck CD,ONS6.10,2011/12,,,,,17.22233768,11.61206363,22.83261173,Not significantly different from England average
+19UH,E07000052,West Dorset CD,ONS6.10,2011/12,,,,,14.6713496,11.31925197,18.02344722,Significantly better than England average
+19UJ,E07000053,Weymouth and Portland CD,ONS6.10,2011/12,,,,,23.92431202,18.60383873,29.24478532,Not significantly different from England average
+21UC,E07000061,Eastbourne CD,ONS1.1,2011/12,,,,,21.1903401,15.8505584,26.5301218,Not significantly different from England average
+21UD,E07000062,Hastings CD,ONS1.1,2011/12,,,,,27.0386632,21.0455312,33.0317952,Significantly worse than England average
+21UF,E07000063,Lewes CD,ONS5.7,2011/12,,,,,20.04649147,15.13261843,24.96036451,Not significantly different from England average
+21UG,E07000064,Rother CD,ONS6.10,2011/12,,,,,14.05706054,9.515373844,18.59874724,Significantly better than England average
+21UH,E07000065,Wealden CD,ONS5.7,2011/12,,,,,18.20117276,14.45246063,21.94988488,Not significantly different from England average
+22UB,E07000066,Basildon CD,ONS5.8,2011/12,,,,,15.70699067,11.87844699,19.53553435,Significantly better than England average
+22UC,E07000067,Braintree CD,ONS5.7,2011/12,,,,,19.65922327,15.62057723,23.69786932,Not significantly different from England average
+22UD,E07000068,Brentwood CD,ONS5.9,2011/12,,,,,14.40463441,8.199091807,20.61017701,Not significantly different from England average
+22UE,E07000069,Castle Point CD,ONS5.7,2011/12,,,,,18.92996944,13.28482144,24.57511743,Not significantly different from England average
+22UF,E07000070,Chelmsford CD,ONS5.9,2011/12,,,,,18.96274508,15.19115064,22.73433952,Not significantly different from England average
+22UG,E07000071,Colchester CD,ONS5.7,2011/12,,,,,22.48460239,18.40854637,26.5606584,Not significantly different from England average
+22UH,E07000072,Epping Forest CD,ONS5.9,2011/12,,,,,16.55190678,12.37406966,20.7297439,Not significantly different from England average
+22UJ,E07000073,Harlow CD,ONS5.8,2011/12,,,,,23.0067834,16.85821509,29.15535172,Not significantly different from England average
+22UK,E07000074,Maldon CD,ONS5.7,2011/12,,,,,18.78363055,13.09341998,24.47384113,Not significantly different from England average
+22UL,E07000075,Rochford CD,ONS5.9,2011/12,,,,,15.42788581,9.704181927,21.1515897,Not significantly different from England average
+22UN,E07000076,Tendring CD,ONS6.10,2011/12,,,,,22.03008722,17.50319903,26.55697541,Not significantly different from England average
+22UQ,E07000077,Uttlesford CD,ONS5.9,2011/12,,,,,13.92191266,9.10000119,18.74382414,Significantly better than England average
+23UB,E07000078,Cheltenham CD,ONS5.7,2011/12,,,,,17.94270751,13.22379643,22.66161858,Not significantly different from England average
+23UC,E07000079,Cotswold CD,ONS5.7,2011/12,,,,,13.57199586,8.330162043,18.81382969,Significantly better than England average
+23UD,E07000080,Forest of Dean CD,ONS5.7,2011/12,,,,,19.74477782,14.34786125,25.14169439,Not significantly different from England average
+23UE,E07000081,Gloucester CD,ONS5.8,2011/12,,,,,25.14394543,20.07131654,30.21657432,Significantly worse than England average
+23UF,E07000082,Stroud CD,ONS5.7,2011/12,,,,,20.6913503,15.90345749,25.47924311,Not significantly different from England average
+23UG,E07000083,Tewkesbury CD,ONS5.7,2011/12,,,,,10.28303113,5.975412375,14.59064989,Significantly better than England average
+24UB,E07000084,Basingstoke and Deane CD,ONS5.9,2011/12,,,,,20.24421932,16.02846824,24.4599704,Not significantly different from England average
+24UC,E07000085,East Hampshire CD,ONS5.9,2011/12,,,,,15.34792335,10.95807206,19.73777464,Significantly better than England average
+24UD,E07000086,Eastleigh CD,ONS5.7,2011/12,,,,,14.61633001,10.32219222,18.9104678,Significantly better than England average
+24UE,E07000087,Fareham CD,ONS5.7,2011/12,,,,,17.78004797,13.34101148,22.21908446,Not significantly different from England average
+24UF,E07000088,Gosport CD,ONS5.8,2011/12,,,,,20.3690338,14.29693365,26.44113395,Not significantly different from England average
+24UG,E07000089,Hart CD,ONS5.9,2011/12,,,,,14.53429971,9.612590601,19.45600882,Significantly better than England average
+24UH,E07000090,Havant CD,ONS7.12,2011/12,,,,,21.72411496,16.78699461,26.6612353,Not significantly different from England average
+24UJ,E07000091,New Forest CD,ONS5.7,2011/12,,,,,16.77984856,13.45063496,20.10906216,Not significantly different from England average
+24UL,E07000092,Rushmoor CD,ONS5.8,2011/12,,,,,24.27174766,18.25421776,30.28927756,Not significantly different from England average
+24UN,E07000093,Test Valley CD,ONS5.9,2011/12,,,,,13.62,9.262245636,17.97775436,Significantly better than England average
+24UP,E07000094,Winchester CD,ONS5.9,2011/12,,,,,13.98859243,9.600098658,18.3770862,Significantly better than England average
+26UB,E07000095,Broxbourne CD,ONS5.8,2011/12,,,,,21.46576056,15.27540805,27.65611306,Not significantly different from England average
+26UC,E07000096,Dacorum CD,ONS5.9,2011/12,,,,,18.73130652,13.93303425,23.52957879,Not significantly different from England average
+26UD,E07000097,East Hertfordshire CD,ONS5.9,2011/12,,,,,13.86233183,10.24209694,17.48256673,Significantly better than England average
+26UE,E07000098,Hertsmere CD,ONS5.9,2011/12,,,,,19.37150453,14.29687824,24.44613082,Not significantly different from England average
+26UF,E07000099,North Hertfordshire CD,ONS5.9,2011/12,,,,,16.71625759,12.48694173,20.94557344,Not significantly different from England average
+26UG,E07000240,St Albans CD,ONS5.9,2011/12,,,,,18.96517032,15.00260545,22.92773518,Not significantly different from England average
+26UH,E07000101,Stevenage CD,ONS5.8,2011/12,,,,,27.62342209,21.09125055,34.15559363,Significantly worse than England average
+26UJ,E07000102,Three Rivers CD,ONS5.9,2011/12,,,,,22.30842377,17.28643754,27.33040999,Not significantly different from England average
+26UK,E07000103,Watford CD,ONS1.3,2011/12,,,,,16.61365707,11.14568667,22.08162746,Not significantly different from England average
+26UL,E07000241,Welwyn Hatfield CD,ONS5.7,2011/12,,,,,23.56342983,17.87727039,29.24958927,Not significantly different from England average
+29UB,E07000105,Ashford CD,ONS5.7,2011/12,,,,,18.2796443,13.75248215,22.80680646,Not significantly different from England average
+29UC,E07000106,Canterbury CD,ONS5.7,2011/12,,,,,23.4095274,18.80592203,28.01313278,Not significantly different from England average
+29UD,E07000107,Dartford CD,ONS5.8,2011/12,,,,,16.70300566,11.09583738,22.31017394,Not significantly different from England average
+29UE,E07000108,Dover CD,ONS6.10,2011/12,,,,,27.43058064,21.72609535,33.13506593,Significantly worse than England average
+29UG,E07000109,Gravesham CD,ONS5.8,2011/12,,,,,23.16516949,17.01887176,29.31146722,Not significantly different from England average
+29UH,E07000110,Maidstone CD,ONS5.7,2011/12,,,,,18.69522967,14.44994338,22.94051595,Not significantly different from England average
+29UK,E07000111,Sevenoaks CD,ONS5.9,2011/12,,,,,16.41046727,11.73436531,21.08656924,Not significantly different from England average
+29UL,E07000112,Shepway CD,ONS6.10,2011/12,,,,,20.94813148,15.83152932,26.06473364,Not significantly different from England average
+29UM,E07000113,Swale CD,ONS7.12,2011/12,,,,,20.51667108,16.26770949,24.76563268,Not significantly different from England average
+29UN,E07000114,Thanet CD,ONS6.10,2011/12,,,,,21.65065623,16.7469478,26.55436466,Not significantly different from England average
+29UP,E07000115,Tonbridge and Malling CD,ONS5.9,2011/12,,,,,13.68076083,9.641121417,17.72040024,Significantly better than England average
+29UQ,E07000116,Tunbridge Wells CD,ONS5.9,2011/12,,,,,20.42775053,15.82692088,25.02858019,Not significantly different from England average
+30UD,E07000117,Burnley CD,ONS1.2,2011/12,,,,,23.04212443,16.32543308,29.75881578,Not significantly different from England average
+30UE,E07000118,Chorley CD,ONS5.7,2011/12,,,,,17.75468854,13.56122537,21.94815172,Not significantly different from England average
+30UF,E07000119,Fylde CD,ONS6.10,2011/12,,,,,12.46514758,7.730643641,17.19965152,Significantly better than England average
+30UG,E07000120,Hyndburn CD,ONS1.2,2011/12,,,,,21.29004916,15.3262922,27.25380612,Not significantly different from England average
+30UH,E07000121,Lancaster CD,ONS1.1,2011/12,,,,,23.57048864,19.14899225,27.99198503,Not significantly different from England average
+30UJ,E07000122,Pendle CD,ONS1.2,2011/12,,,,,23.17618151,16.63787966,29.71448336,Not significantly different from England average
+30UK,E07000123,Preston CD,ONS1.2,2011/12,,,,,24.81762009,19.92959367,29.70564651,Not significantly different from England average
+30UL,E07000124,Ribble Valley CD,ONS5.7,2011/12,,,,,14.70155966,8.793174769,20.60994454,Not significantly different from England average
+30UM,E07000125,Rossendale CD,ONS7.12,2011/12,,,,,23.38428483,16.88623189,29.88233776,Not significantly different from England average
+30UN,E07000126,South Ribble CD,ONS5.7,2011/12,,,,,18.0230352,13.5045428,22.5415276,Not significantly different from England average
+30UP,E07000127,West Lancashire CD,ONS5.7,2011/12,,,,,28.16758737,22.47662777,33.85854696,Significantly worse than England average
+30UQ,E07000128,Wyre CD,ONS6.10,2011/12,,,,,18.77636199,14.47050627,23.08221771,Not significantly different from England average
+31UB,E07000129,Blaby CD,ONS5.7,2011/12,,,,,15.30151061,11.23447654,19.36854467,Significantly better than England average
+31UC,E07000130,Charnwood CD,ONS5.7,2011/12,,,,,18.70994236,14.86877333,22.55111139,Not significantly different from England average
+31UD,E07000131,Harborough CD,ONS5.7,2011/12,,,,,15.03638583,10.45669287,19.61607879,Significantly better than England average
+31UE,E07000132,Hinckley and Bosworth CD,ONS5.7,2011/12,,,,,16.80339603,12.60718344,20.99960863,Not significantly different from England average
+31UG,E07000133,Melton CD,ONS5.7,2011/12,,,,,15.08128495,8.929441504,21.2331284,Not significantly different from England average
+31UH,E07000134,North West Leicestershire CD,ONS5.7,2011/12,,,,,19.47788003,14.48815249,24.46760757,Not significantly different from England average
+31UJ,E07000135,Oadby and Wigston CD,ONS5.7,2011/12,,,,,16.37679639,10.76404623,21.98954656,Not significantly different from England average
+32UB,E07000136,Boston CD,ONS5.7,2011/12,,,,,26.14587236,20.50343086,31.78831387,Significantly worse than England average
+32UC,E07000137,East Lindsey CD,ONS6.10,2011/12,,,,,23.6179988,18.88219288,28.35380472,Not significantly different from England average
+32UD,E07000138,Lincoln CD,ONS1.1,2011/12,,,,,28.32868855,22.7980931,33.85928399,Significantly worse than England average
+32UE,E07000139,North Kesteven CD,ONS5.7,2011/12,,,,,19.97647029,15.32633991,24.62660068,Not significantly different from England average
+32UF,E07000140,South Holland CD,ONS5.7,2011/12,,,,,14.69219999,10.00329103,19.38110895,Significantly better than England average
+32UG,E07000141,South Kesteven CD,ONS5.7,2011/12,,,,,17.26729731,13.52085989,21.01373472,Not significantly different from England average
+32UH,E07000142,West Lindsey CD,ONS5.7,2011/12,,,,,17.87719562,13.00921125,22.74517998,Not significantly different from England average
+33UB,E07000143,Breckland CD,ONS5.7,2011/12,,,,,19.96751218,15.81485376,24.12017061,Not significantly different from England average
+33UC,E07000144,Broadland CD,ONS5.7,2011/12,,,,,18.21542697,14.01909571,22.41175823,Not significantly different from England average
+33UD,E07000145,Great Yarmouth CD,ONS6.10,2011/12,,,,,24.93135416,18.55794701,31.30476131,Not significantly different from England average
+33UE,E07000146,King's Lynn and West Norfolk CD,ONS5.7,2011/12,,,,,19.34817493,15.2503909,23.44595896,Not significantly different from England average
+33UF,E07000147,North Norfolk CD,ONS6.10,2011/12,,,,,14.56519294,10.33387184,18.79651403,Significantly better than England average
+33UG,E07000148,Norwich CD,ONS1.1,2011/12,,,,,26.34946022,21.5377223,31.16119813,Significantly worse than England average
+33UH,E07000149,South Norfolk CD,ONS5.7,2011/12,,,,,18.43143587,14.36921958,22.49365215,Not significantly different from England average
+34UB,E07000150,Corby CD,ONS7.12,2011/12,,,,,25.4857029,18.02313087,32.94827493,Not significantly different from England average
+34UC,E07000151,Daventry CD,ONS5.7,2011/12,,,,,16.02462008,11.20987277,20.83936739,Not significantly different from England average
+34UD,E07000152,East Northamptonshire CD,ONS5.7,2011/12,,,,,19.58152936,14.3016085,24.86145022,Not significantly different from England average
+34UE,E07000153,Kettering CD,ONS5.7,2011/12,,,,,23.44603531,17.2567804,29.63529022,Not significantly different from England average
+34UF,E07000154,Northampton CD,ONS5.8,2011/12,,,,,23.3250759,19.40019166,27.24996014,Not significantly different from England average
+34UG,E07000155,South Northamptonshire CD,ONS5.7,2011/12,,,,,11.18014243,6.866363891,15.49392096,Significantly better than England average
+34UH,E07000156,Wellingborough CD,ONS5.8,2011/12,,,,,25.29575792,18.799125,31.79239083,Not significantly different from England average
+36UB,E07000163,Craven CD,ONS6.10,2011/12,,,,,8.200664801,3.895021277,12.50630832,Significantly better than England average
+36UC,E07000164,Hambleton CD,ONS5.7,2011/12,,,,,16.03673464,10.59998069,21.47348858,Not significantly different from England average
+36UD,E07000165,Harrogate CD,ONS5.7,2011/12,,,,,14.50261824,10.93383734,18.07139913,Significantly better than England average
+36UE,E07000166,Richmondshire CD,ONS5.7,2011/12,,,,,20.34825282,13.67936719,27.01713845,Not significantly different from England average
+36UF,E07000167,Ryedale CD,ONS6.10,2011/12,,,,,23.67590638,16.73271781,30.61909494,Not significantly different from England average
+36UG,E07000168,Scarborough CD,ONS6.10,2011/12,,,,,21.06691178,15.84201003,26.29181353,Not significantly different from England average
+36UH,E07000169,Selby CD,ONS5.7,2011/12,,,,,14.96480141,10.28272514,19.64687767,Significantly better than England average
+37UB,E07000170,Ashfield CD,ONS7.12,2011/12,,,,,29.4294009,23.52683366,35.33196813,Significantly worse than England average
+37UC,E07000171,Bassetlaw CD,ONS7.12,2011/12,,,,,13.81098931,9.733169171,17.88880946,Significantly better than England average
+37UD,E07000172,Broxtowe CD,ONS5.7,2011/12,,,,,16.40371073,12.05061493,20.75680652,Not significantly different from England average
+37UE,E07000173,Gedling CD,ONS5.7,2011/12,,,,,15.54955112,11.11908501,19.98001723,Not significantly different from England average
+37UF,E07000174,Mansfield CD,ONS7.12,2011/12,,,,,29.25042941,23.67774927,34.82310954,Significantly worse than England average
+37UG,E07000175,Newark and Sherwood CD,ONS5.7,2011/12,,,,,20.08191407,14.91566701,25.24816112,Not significantly different from England average
+37UJ,E07000176,Rushcliffe CD,ONS5.7,2011/12,,,,,14.80314788,10.55130226,19.0549935,Significantly better than England average
+38UB,E07000177,Cherwell CD,ONS5.7,2011/12,,,,,20.19658453,15.69095109,24.70221798,Not significantly different from England average
+38UC,E07000178,Oxford CD,ONS1.3,2011/12,,,,,22.07707056,17.4373669,26.71677421,Not significantly different from England average
+38UD,E07000179,South Oxfordshire CD,ONS5.9,2011/12,,,,,15.63103276,11.47281275,19.78925277,Significantly better than England average
+38UE,E07000180,Vale of White Horse CD,ONS5.9,2011/12,,,,,12.67556976,8.878953628,16.47218589,Significantly better than England average
+38UF,E07000181,West Oxfordshire CD,ONS5.7,2011/12,,,,,15.30408216,11.16034733,19.447817,Significantly better than England average
+40UB,E07000187,Mendip CD,ONS5.7,2011/12,,,,,17.57722936,13.75521426,21.39924445,Not significantly different from England average
+40UC,E07000188,Sedgemoor CD,ONS5.7,2011/12,,,,,18.39063659,14.09183748,22.68943571,Not significantly different from England average
+40UD,E07000189,South Somerset CD,ONS5.7,2011/12,,,,,23.05787973,19.16615984,26.94959962,Not significantly different from England average
+40UE,E07000190,Taunton Deane CD,ONS5.7,2011/12,,,,,16.19655845,11.83418252,20.55893438,Not significantly different from England average
+40UF,E07000191,West Somerset CD,ONS6.10,2011/12,,,,,17.30565558,8.686352665,25.9249585,Not significantly different from England average
+41UB,E07000192,Cannock Chase CD,ONS7.12,2011/12,,,,,19.60718188,14.70519645,24.50916731,Not significantly different from England average
+41UC,E07000193,East Staffordshire CD,ONS7.12,2011/12,,,,,20.02549957,14.91965585,25.13134328,Not significantly different from England average
+41UD,E07000194,Lichfield CD,ONS5.7,2011/12,,,,,17.30891287,12.89325146,21.72457427,Not significantly different from England average
+41UE,E07000195,Newcastle-under-Lyme CD,ONS7.12,2011/12,,,,,20.04928199,15.93621318,24.16235081,Not significantly different from England average
+41UF,E07000196,South Staffordshire CD,ONS5.7,2011/12,,,,,15.42945882,11.2718658,19.58705183,Significantly better than England average
+41UG,E07000197,Stafford CD,ONS5.7,2011/12,,,,,21.05009122,16.71678461,25.38339784,Not significantly different from England average
+41UH,E07000198,Staffordshire Moorlands CD,ONS5.7,2011/12,,,,,18.84803955,13.45463513,24.24144397,Not significantly different from England average
+41UK,E07000199,Tamworth CD,ONS7.12,2011/12,,,,,20.17450487,14.08797036,26.26103938,Not significantly different from England average
+42UB,E07000200,Babergh CD,ONS5.7,2011/12,,,,,14.69147267,9.959243921,19.42370142,Significantly better than England average
+42UC,E07000201,Forest Heath CD,ONS5.8,2011/12,,,,,24.1187495,17.29517039,30.94232861,Not significantly different from England average
+42UD,E07000202,Ipswich CD,ONS5.8,2011/12,,,,,21.05433313,16.79521551,25.31345075,Not significantly different from England average
+42UE,E07000203,Mid Suffolk CD,ONS5.7,2011/12,,,,,19.53369387,14.99405315,24.07333458,Not significantly different from England average
+42UF,E07000204,St Edmundsbury CD,ONS5.7,2011/12,,,,,24.11675919,19.08793929,29.14557909,Not significantly different from England average
+42UG,E07000205,Suffolk Coastal CD,ONS5.7,2011/12,,,,,16.68973394,12.61684936,20.76261852,Not significantly different from England average
+42UH,E07000206,Waveney CD,ONS6.10,2011/12,,,,,22.94170657,18.02555272,27.85786041,Not significantly different from England average
+43UB,E07000207,Elmbridge CD,ONS5.9,2011/12,,,,,19.76338247,15.10730867,24.41945626,Not significantly different from England average
+43UC,E07000208,Epsom and Ewell CD,ONS5.9,2011/12,,,,,12.08476129,6.88577448,17.2837481,Significantly better than England average
+43UD,E07000209,Guildford CD,ONS5.9,2011/12,,,,,16.35679283,12.18505493,20.52853073,Not significantly different from England average
+43UE,E07000210,Mole Valley CD,ONS5.9,2011/12,,,,,13.81602695,9.588942447,18.04311146,Significantly better than England average
+43UF,E07000211,Reigate and Banstead CD,ONS5.9,2011/12,,,,,15.71865994,11.07485954,20.36246035,Not significantly different from England average
+43UG,E07000212,Runnymede CD,ONS5.9,2011/12,,,,,11.6446596,6.984506572,16.30481263,Significantly better than England average
+43UH,E07000213,Spelthorne CD,ONS5.9,2011/12,,,,,18.68232443,12.92384698,24.44080188,Not significantly different from England average
+43UJ,E07000214,Surrey Heath CD,ONS5.9,2011/12,,,,,11.85810913,6.998173541,16.71804472,Significantly better than England average
+43UK,E07000215,Tandridge CD,ONS5.9,2011/12,,,,,15.99149405,10.52965157,21.45333653,Not significantly different from England average
+43UL,E07000216,Waverley CD,ONS5.9,2011/12,,,,,17.17295364,12.98130895,21.36459834,Not significantly different from England average
+43UM,E07000217,Woking CD,ONS5.9,2011/12,,,,,17.20999746,11.71084026,22.70915467,Not significantly different from England average
+44UB,E07000218,North Warwickshire CD,ONS5.7,2011/12,,,,,12.80520425,6.473760984,19.13664752,Significantly better than England average
+44UC,E07000219,Nuneaton and Bedworth CD,ONS7.12,2011/12,,,,,22.94889389,18.46590111,27.43188667,Not significantly different from England average
+44UD,E07000220,Rugby CD,ONS5.7,2011/12,,,,,14.61334137,9.913361704,19.31332103,Significantly better than England average
+44UE,E07000221,Stratford-on-Avon CD,ONS5.7,2011/12,,,,,20.19388154,15.98204649,24.40571659,Not significantly different from England average
+44UF,E07000222,Warwick CD,ONS5.7,2011/12,,,,,20.51033562,16.55331976,24.46735148,Not significantly different from England average
+45UB,E07000223,Adur CD,ONS5.7,2011/12,,,,,16.85786429,10.18710528,23.52862329,Not significantly different from England average
+45UC,E07000224,Arun CD,ONS6.10,2011/12,,,,,12.18360485,8.670349955,15.69685974,Significantly better than England average
+45UD,E07000225,Chichester CD,ONS6.10,2011/12,,,,,20.98644367,16.44601287,25.52687448,Not significantly different from England average
+45UE,E07000226,Crawley CD,ONS5.8,2011/12,,,,,21.24931134,16.05213799,26.44648469,Not significantly different from England average
+45UF,E07000227,Horsham CD,ONS5.9,2011/12,,,,,14.71770833,10.70862604,18.72679063,Significantly better than England average
+45UG,E07000228,Mid Sussex CD,ONS5.9,2011/12,,,,,24.2323312,19.55209581,28.91256659,Not significantly different from England average
+45UH,E07000229,Worthing CD,ONS1.1,2011/12,,,,,20.45882796,15.14024053,25.77741539,Not significantly different from England average
+47UB,E07000234,Bromsgrove CD,ONS5.7,2011/12,,,,,15.74954167,10.97917065,20.51991269,Not significantly different from England average
+47UC,E07000235,Malvern Hills CD,ONS5.7,2011/12,,,,,15.1525101,9.489367445,20.81565275,Not significantly different from England average
+47UD,E07000236,Redditch CD,ONS7.12,2011/12,,,,,25.2408509,19.06405229,31.4176495,Not significantly different from England average
+47UE,E07000237,Worcester CD,ONS5.8,2011/12,,,,,23.0089647,17.67284283,28.34508657,Not significantly different from England average
+47UF,E07000238,Wychavon CD,ONS5.7,2011/12,,,,,16.92667214,12.87462287,20.97872141,Not significantly different from England average
+47UG,E07000239,Wyre Forest CD,ONS5.7,2011/12,,,,,15.45320197,10.96353404,19.9428699,Significantly better than England average
