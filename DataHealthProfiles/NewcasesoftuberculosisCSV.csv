@@ -1,0 +1,362 @@
+ONS Code (old),ONS Code (new),Area Name                                           ,ONS Cluster,Period,Aggregate Numerator,Aggregate Denominator,Single Year Numerator,Single Year Denominator,Indicator value,Lower 95% CI,Upper 95% CI,Significance
+Eng,E92000001,England,N/A,2009 - 11,24154,156702135,8051,52234045,15.4,15.1,15.8,n/a
+A,E12000001,North East,N/A,2009 - 11,429,7819875,143,2606625,5.5,4.6,6.5,Significantly better than England average
+B,E12000002,North West,N/A,2009 - 11,2438,20807208,813,6935736,11.7,10.9,12.6,Significantly better than England average
+D,E12000003,Yorkshire and the Humber,N/A,2009 - 11,2001,15903756,667,5301252,12.6,11.6,13.6,Significantly better than England average
+E,E12000004,East Midlands,N/A,2009 - 11,1524,13444293,508,4481431,11.3,10.4,12.4,Significantly better than England average
+F,E12000005,West Midlands,N/A,2009 - 11,2892,16365537,964,5455179,17.7,16.6,18.8,Significantly worse than England average
+G,E12000006,East of England,N/A,2009 - 11,1484,17495535,495,5831845,8.5,7.8,9.3,Significantly better than England average
+H,E12000007,London,N/A,2009 - 11,10180,23475531,3393,7825177,43.4,41.9,44.8,Significantly worse than England average
+J,E12000008,South East,N/A,2009 - 11,2324,25569222,775,8523074,9.1,8.5,9.8,Significantly better than England average
+K,E12000009,South West,N/A,2009 - 11,882,15821178,294,5273726,5.6,5,6.2,Significantly better than England average
+11,E10000002,Buckinghamshire CC,N/A,2009 - 11,129,1494216,43,498072,8.6,6.2,11.6,Significantly better than England average
+12,E10000003,Cambridgeshire CC,N/A,2009 - 11,105,1848846,35,616282,5.7,4,7.9,Significantly better than England average
+16,E10000006,Cumbria CC,N/A,2009 - 11,24,1483050,8,494350,1.6,0.7,3.2,Significantly better than England average
+17,E10000007,Derbyshire CC,N/A,2009 - 11,87,2291172,29,763724,3.8,2.5,5.5,Significantly better than England average
+18,E10000008,Devon CC,N/A,2009 - 11,70,2249832,23,749944,3.1,1.9,4.6,Significantly better than England average
+19,E10000009,Dorset CC,N/A,2009 - 11,43,1214367,14,404789,3.5,1.9,5.8,Significantly better than England average
+21,E10000011,East Sussex CC,N/A,2009 - 11,72,1546566,24,515522,4.7,3,6.9,Significantly better than England average
+22,E10000012,Essex CC,N/A,2009 - 11,210,4239075,70,1413025,5,3.9,6.3,Significantly better than England average
+23,E10000013,Gloucestershire CC,N/A,2009 - 11,70,1780581,23,593527,3.9,2.5,5.8,Significantly better than England average
+24,E10000014,Hampshire CC,N/A,2009 - 11,215,3890442,72,1296814,5.5,4.3,7,Significantly better than England average
+26,E10000015,Hertfordshire CC,N/A,2009 - 11,290,3322563,97,1107521,8.7,7.1,10.7,Significantly better than England average
+29,E10000016,Kent CC,N/A,2009 - 11,326,4282254,109,1427418,7.6,6.3,9.2,Significantly better than England average
+30,E10000017,Lancashire CC,N/A,2009 - 11,327,3507810,109,1169270,9.3,7.7,11.2,Significantly better than England average
+31,E10000018,Leicestershire CC,N/A,2009 - 11,122,1946244,41,648748,6.3,4.5,8.6,Significantly better than England average
+32,E10000019,Lincolnshire CC,N/A,2009 - 11,70,2109024,23,703008,3.3,2.1,4.9,Significantly better than England average
+33,E10000020,Norfolk CC,N/A,2009 - 11,116,2587038,39,862346,4.5,3.2,6.2,Significantly better than England average
+34,E10000021,Northamptonshire CC,N/A,2009 - 11,216,2061957,72,687319,10.5,8.2,13.2,Significantly better than England average
+36,E10000023,North Yorkshire CC,N/A,2009 - 11,51,1799124,17,599708,2.8,1.7,4.5,Significantly better than England average
+37,E10000024,Nottinghamshire CC,N/A,2009 - 11,94,2339670,31,779890,4,2.7,5.6,Significantly better than England average
+38,E10000025,Oxfordshire CC,N/A,2009 - 11,184,1946166,61,648722,9.5,7.2,12.1,Significantly better than England average
+40,E10000027,Somerset CC,N/A,2009 - 11,37,1575558,12,525186,2.3,1.2,4,Significantly better than England average
+41,E10000028,Staffordshire CC,N/A,2009 - 11,122,2493870,41,831290,4.9,3.5,6.7,Significantly better than England average
+42,E10000029,Suffolk CC,N/A,2009 - 11,104,2158533,35,719511,4.8,3.4,6.8,Significantly better than England average
+43,E10000030,Surrey CC,N/A,2009 - 11,271,3381966,90,1127322,8,6.4,9.8,Significantly better than England average
+44,E10000031,Warwickshire CC,N/A,2009 - 11,142,1607946,47,535982,8.8,6.4,11.7,Significantly better than England average
+45,E10000032,West Sussex CC,N/A,2009 - 11,175,2399103,58,799701,7.3,5.5,9.4,Significantly better than England average
+47,E10000034,Worcestershire CC,N/A,2009 - 11,59,1672278,20,557426,3.5,2.2,5.5,Significantly better than England average
+00AB,E09000002,Barking and Dagenham LB,ONS1.2,2009 - 11,201,539223,67,179741,37.3,28.9,47.3,Significantly worse than England average
+00AC,E09000003,Barnet LB,ONS2.4,2009 - 11,320,1044594,107,348198,30.6,25.2,37.1,Significantly worse than England average
+00AD,E09000004,Bexley LB,ONS5.8,2009 - 11,74,683871,25,227957,10.8,7.1,16.2,Not significantly different from England average
+00AE,E09000005,Brent LB,ONS4.6,2009 - 11,908,769668,303,256556,118,105.2,132.2,Significantly worse than England average
+00AF,E09000006,Bromley LB,ONS1.3,2009 - 11,110,937140,37,312380,11.7,8.3,16.3,Not significantly different from England average
+00AG,E09000007,Camden LB,ONS3.5,2009 - 11,238,706086,79,235362,33.7,26.6,41.8,Significantly worse than England average
+00AH,E09000008,Croydon LB,ONS2.4,2009 - 11,366,1036686,122,345562,35.3,29.3,42.2,Significantly worse than England average
+00AJ,E09000009,Ealing LB,ONS2.4,2009 - 11,675,955548,225,318516,70.6,61.7,80.5,Significantly worse than England average
+00AK,E09000010,Enfield LB,ONS2.4,2009 - 11,287,884781,96,294927,32.4,26.4,39.7,Significantly worse than England average
+00AL,E09000011,Greenwich LB,ONS2.4,2009 - 11,352,685527,117,228509,51.3,42.3,61.4,Significantly worse than England average
+00AM,E09000012,Hackney LB,ONS4.6,2009 - 11,296,657684,99,219228,45,36.7,55,Significantly worse than England average
+00AN,E09000013,Hammersmith and Fulham LB,ONS3.5,2009 - 11,197,509115,66,169705,38.7,30.1,49.5,Significantly worse than England average
+00AP,E09000014,Haringey LB,ONS4.6,2009 - 11,369,674988,123,224996,54.7,45.4,65.2,Significantly worse than England average
+00AQ,E09000015,Harrow LB,ONS2.4,2009 - 11,428,690171,143,230057,62,52.4,73.2,Significantly worse than England average
+00AR,E09000016,Havering LB,ONS5.8,2009 - 11,61,708411,20,236137,8.6,5.2,13.1,Significantly better than England average
+00AS,E09000017,Hillingdon LB,ONS1.3,2009 - 11,379,798342,126,266114,47.5,39.4,56.4,Significantly worse than England average
+00AT,E09000018,Hounslow LB,ONS2.4,2009 - 11,549,710280,183,236760,77.3,66.5,89.3,Significantly worse than England average
+00AU,E09000019,Islington LB,ONS3.5,2009 - 11,236,582240,79,194080,40.5,32.2,50.7,Significantly worse than England average
+00AW,E09000020,Kensington and Chelsea LB,ONS3.5,2009 - 11,133,508482,44,169494,26.2,18.9,34.8,Significantly worse than England average
+00AX,E09000021,Kingston upon Thames LB,ONS1.3,2009 - 11,98,506865,33,168955,19.3,13.4,27.4,Not significantly different from England average
+00AY,E09000022,Lambeth LB,ONS4.6,2009 - 11,327,853452,109,284484,38.3,31.5,46.2,Significantly worse than England average
+00AZ,E09000023,Lewisham LB,ONS4.6,2009 - 11,260,799440,87,266480,32.5,26.1,40.3,Significantly worse than England average
+00BA,E09000024,Merton LB,ONS2.4,2009 - 11,182,626382,61,208794,29.1,22.3,37.5,Significantly worse than England average
+00BB,E09000025,Newham LB,ONS4.6,2009 - 11,987,720372,329,240124,137,122.6,152.6,Significantly worse than England average
+00BC,E09000026,Redbridge LB,ONS2.4,2009 - 11,446,811503,149,270501,55,46.6,64.7,Significantly worse than England average
+00BD,E09000027,Richmond upon Thames LB,ONS1.3,2009 - 11,53,572760,18,190920,9.3,5.6,14.9,Significantly better than England average
+00BE,E09000028,Southwark LB,ONS4.6,2009 - 11,306,861123,102,287041,35.5,29,43.1,Significantly worse than England average
+00BF,E09000029,Sutton LB,ONS1.3,2009 - 11,94,582585,31,194195,16.1,10.8,22.7,Not significantly different from England average
+00BG,E09000030,Tower Hamlets LB,ONS3.5,2009 - 11,435,713688,145,237896,61,51.4,71.7,Significantly worse than England average
+00BH,E09000031,Waltham Forest LB,ONS2.4,2009 - 11,330,681435,110,227145,48.4,39.8,58.4,Significantly worse than England average
+00BJ,E09000032,Wandsworth LB,ONS3.5,2009 - 11,270,868722,90,289574,31.1,25,38.2,Significantly worse than England average
+00BK,E09000033,City of Westminster LB,ONS3.5,2009 - 11,206,759336,69,253112,27.1,21.2,34.5,Significantly worse than England average
+00BL,E08000001,Bolton MCD,ONS1.2,2009 - 11,202,799476,67,266492,25.3,19.5,31.9,Significantly worse than England average
+00BM,E08000002,Bury MCD,ONS5.7,2009 - 11,59,551259,20,183753,10.7,6.6,16.8,Not significantly different from England average
+00BN,E08000003,Manchester MCD,ONS1.2,2009 - 11,622,1496337,207,498779,41.6,36,47.6,Significantly worse than England average
+00BP,E08000004,Oldham MCD,ONS1.2,2009 - 11,135,659313,45,219771,20.5,14.9,27.4,Not significantly different from England average
+00BQ,E08000005,Rochdale MCD,ONS1.2,2009 - 11,131,615570,44,205190,21.3,15.6,28.8,Significantly worse than England average
+00BR,E08000006,Salford MCD,ONS1.1,2009 - 11,90,686976,30,228992,13.1,8.8,18.7,Not significantly different from England average
+00BS,E08000007,Stockport MCD,ONS5.7,2009 - 11,52,853935,17,284645,6.1,3.5,9.6,Significantly better than England average
+00BT,E08000008,Tameside MCD,ONS7.11,2009 - 11,115,650646,38,216882,17.7,12.4,24,Not significantly different from England average
+00BU,E08000009,Trafford MCD,ONS5.7,2009 - 11,81,651921,27,217307,12.4,8.2,18.1,Not significantly different from England average
+00BW,E08000010,Wigan MCD,ONS7.12,2009 - 11,40,922731,13,307577,4.3,2.3,7.2,Significantly better than England average
+00BX,E08000011,Knowsley MCD,ONS7.11,2009 - 11,11,447348,4,149116,2.5,0.7,6.9,Significantly better than England average
+00BY,E08000012,Liverpool MCD,ONS1.1,2009 - 11,148,1335687,49,445229,11.1,8.1,14.5,Significantly better than England average
+00BZ,E08000013,St Helens MCD,ONS7.11,2009 - 11,11,532089,4,177363,2.1,0.6,5.8,Significantly better than England average
+00CA,E08000014,Sefton MCD,ONS7.11,2009 - 11,26,818628,9,272876,3.2,1.5,6.3,Significantly better than England average
+00CB,E08000015,Wirral MCD,ONS7.11,2009 - 11,36,926511,12,308837,3.9,2,6.8,Significantly better than England average
+00CC,E08000016,Barnsley MCD,ONS7.12,2009 - 11,24,682830,8,227610,3.5,1.5,6.9,Significantly better than England average
+00CE,E08000017,Doncaster MCD,ONS7.12,2009 - 11,58,871779,19,290593,6.7,3.9,10.2,Significantly better than England average
+00CF,E08000018,Rotherham MCD,ONS7.12,2009 - 11,65,763815,22,254605,8.5,5.4,13.1,Significantly better than England average
+00CG,E08000019,Sheffield MCD,ONS1.1,2009 - 11,250,1666521,83,555507,15,11.9,18.5,Not significantly different from England average
+00CH,E08000020,Gateshead MCD,ONS7.11,2009 - 11,26,575070,9,191690,4.5,2.1,8.9,Significantly better than England average
+00CJ,E08000021,Newcastle upon Tyne MCD,ONS1.1,2009 - 11,117,876537,39,292179,13.3,9.5,18.2,Not significantly different from England average
+00CK,E08000022,North Tyneside MCD,ONS7.11,2009 - 11,21,595434,7,198478,3.5,1.4,7.3,Significantly better than England average
+00CL,E08000023,South Tyneside MCD,ONS7.11,2009 - 11,24,461010,8,153670,5.2,2.2,10.3,Significantly better than England average
+00CM,E08000024,Sunderland MCD,ONS7.11,2009 - 11,50,850527,17,283509,5.9,3.5,9.6,Significantly better than England average
+00CN,E08000025,Birmingham MCD,ONS1.2,2009 - 11,1230,3110634,410,1036878,39.5,35.8,43.6,Significantly worse than England average
+00CQ,E08000026,Coventry MCD,ONS1.2,2009 - 11,291,947217,97,315739,30.7,24.9,37.5,Significantly worse than England average
+00CR,E08000027,Dudley MCD,ONS7.12,2009 - 11,100,922086,33,307362,10.8,7.4,15.1,Significantly better than England average
+00CS,E08000028,Sandwell MCD,ONS1.2,2009 - 11,313,878397,104,292799,35.6,29,43,Significantly worse than England average
+00CT,E08000029,Solihull MCD,ONS5.7,2009 - 11,46,618273,15,206091,7.4,4.1,12,Significantly better than England average
+00CU,E08000030,Walsall MCD,ONS1.2,2009 - 11,162,770694,54,256898,21,15.8,27.4,Significantly worse than England average
+00CW,E08000031,Wolverhampton MCD,ONS1.2,2009 - 11,248,718062,83,239354,34.5,27.6,43,Significantly worse than England average
+00CX,E08000032,Bradford MCD,ONS1.2,2009 - 11,553,1537854,184,512618,36,30.9,41.5,Significantly worse than England average
+00CY,E08000033,Calderdale MCD,ONS1.2,2009 - 11,76,608223,25,202741,12.5,8,18.2,Not significantly different from England average
+00CZ,E08000034,Kirklees MCD,ONS1.2,2009 - 11,333,1229526,111,409842,27.1,22.3,32.6,Significantly worse than England average
+00DA,E08000035,Leeds MCD,ONS1.1,2009 - 11,356,2396307,119,798769,14.9,12.3,17.8,Not significantly different from England average
+00DB,E08000036,Wakefield MCD,ONS7.12,2009 - 11,65,976719,22,325573,6.7,4.2,10.2,Significantly better than England average
+00EB,E06000001,Hartlepool UA,ONS7.11,2009 - 11,19,273912,6,91304,6.9,2.4,14.3,Significantly better than England average
+00EC,E06000002,Middlesbrough UA,ONS7.11,2009 - 11,62,427110,21,142370,14.5,9.1,22.5,Not significantly different from England average
+00EE,E06000003,Redcar and Cleveland UA,ONS7.11,2009 - 11,16,412194,5,137398,3.9,1.2,8.5,Significantly better than England average
+00EF,E06000004,Stockton-on-Tees UA,ONS7.12,2009 - 11,28,577167,9,192389,4.9,2.1,8.9,Significantly better than England average
+00EH,E06000005,Darlington UA,ONS7.11,2009 - 11,7,302529,2,100843,2.3,0.2,7.2,Significantly better than England average
+00EJ,E06000047,County Durham UA,ONS7.11,2009 - 11,40,1532412,13,510804,2.6,1.4,4.4,Significantly better than England average
+00EM,E06000048,Northumberland UA,ONS5.7,2009 - 11,18,935973,6,311991,1.9,0.7,4.2,Significantly better than England average
+00EQ,E06000049,Cheshire East UA,ONS5.7,2009 - 11,24,1091460,8,363820,2.2,0.9,4.3,Significantly better than England average
+00ET,E06000006,Halton UA,ONS7.11,2009 - 11,4,357789,1,119263,1.1,0,4.7,Significantly better than England average
+00EU,E06000007,Warrington UA,ONS5.7,2009 - 11,32,596715,11,198905,5.4,2.8,9.9,Significantly better than England average
+00EW,E06000050,Cheshire West and Chester UA,ONS5.7,2009 - 11,26,981900,9,327300,2.6,1.3,5.2,Significantly better than England average
+00EX,E06000008,Blackburn with Darwen UA,ONS1.2,2009 - 11,180,420135,60,140045,42.8,32.7,55.1,Significantly worse than England average
+00EY,E06000009,Blackpool UA,ONS6.10,2009 - 11,54,419922,18,139974,12.9,7.6,20.3,Not significantly different from England average
+00FA,E06000010,Kingston upon Hull UA,ONS7.11,2009 - 11,52,791670,17,263890,6.6,3.8,10.3,Significantly better than England average
+00FB,E06000011,East Riding of Yorkshire UA,ONS5.7,2009 - 11,26,1016070,9,338690,2.6,1.2,5,Significantly better than England average
+00FC,E06000012,North East Lincolnshire UA,ONS7.12,2009 - 11,17,471942,6,157314,3.6,1.4,8.3,Significantly better than England average
+00FD,E06000013,North Lincolnshire UA,ONS7.12,2009 - 11,55,484035,18,161345,11.4,6.6,17.6,Not significantly different from England average
+00FF,E06000014,York UA,ONS5.7,2009 - 11,20,607341,7,202447,3.3,1.4,7.1,Significantly better than England average
+00FK,E06000015,Derby UA,ONS1.2,2009 - 11,144,740565,48,246855,19.4,14.3,25.8,Not significantly different from England average
+00FN,E06000016,Leicester UA,ONS1.2,2009 - 11,603,919893,201,306631,65.6,56.8,75.3,Significantly worse than England average
+00FP,E06000017,Rutland UA,ONS5.7,2009 - 11,6,115677,2,38559,5.2,0.6,18.7,Not significantly different from England average
+00FY,E06000018,Nottingham UA,ONS1.2,2009 - 11,192,920091,64,306697,20.9,16.1,26.6,Significantly worse than England average
+00GA,E06000019,County of Herefordshire UA,ONS5.7,2009 - 11,14,537891,5,179297,2.6,0.9,6.5,Significantly better than England average
+00GF,E06000020,Telford and Wrekin UA,ONS7.12,2009 - 11,30,487839,10,162613,6.1,2.9,11.3,Significantly better than England average
+00GG,E06000051,Shropshire UA,ONS5.7,2009 - 11,26,880134,9,293378,3,1.4,5.8,Significantly better than England average
+00GL,E06000021,Stoke-on-Trent UA,ONS7.11,2009 - 11,108,720216,36,240072,15,10.5,20.8,Not significantly different from England average
+00HA,E06000022,Bath and North East Somerset UA,ONS5.7,2009 - 11,27,539112,9,179704,5,2.3,9.5,Significantly better than England average
+00HB,E06000023,Bristol UA,ONS1.1,2009 - 11,246,1323855,82,441285,18.6,14.8,23.1,Not significantly different from England average
+00HC,E06000024,North Somerset UA,ONS5.7,2009 - 11,31,636582,10,212194,4.9,2.3,8.7,Significantly better than England average
+00HD,E06000025,South Gloucestershire UA,ONS5.7,2009 - 11,57,794478,19,264826,7.2,4.3,11.2,Significantly better than England average
+00HE,E06000052,Cornwall UA,ONS6.10,2009 - 11,45,1606002,15,535334,2.8,1.6,4.6,Significantly better than England average
+00HG,E06000026,Plymouth UA,ONS1.1,2009 - 11,40,776130,13,258710,5.2,2.7,8.6,Significantly better than England average
+00HH,E06000027,Torbay UA,ONS6.10,2009 - 11,38,402813,13,134271,9.4,5.2,16.6,Not significantly different from England average
+00HN,E06000028,Bournemouth UA,ONS1.1,2009 - 11,54,504354,18,168118,10.7,6.3,16.9,Not significantly different from England average
+00HP,E06000029,Poole UA,ONS5.7,2009 - 11,15,426405,5,142135,3.5,1.1,8.2,Significantly better than England average
+00HX,E06000030,Swindon UA,ONS5.8,2009 - 11,62,605271,21,201757,10.2,6.4,15.9,Not significantly different from England average
+00HY,E06000054,Wiltshire UA,ONS5.7,2009 - 11,43,1379505,14,459835,3.1,1.7,5.1,Significantly better than England average
+00JA,E06000031,Peterborough UA,ONS5.8,2009 - 11,135,520269,45,173423,25.9,18.9,34.7,Significantly worse than England average
+00KA,E06000032,Luton UA,ONS2.4,2009 - 11,297,596256,99,198752,49.8,40.5,60.6,Significantly worse than England average
+00KB,E06000055,Bedford UA,ONS5.8,2009 - 11,75,482391,25,160797,15.5,10.1,23,Not significantly different from England average
+00KC,E06000056,Central Bedfordshire UA,ONS5.7,2009 - 11,38,765657,13,255219,5,2.7,8.7,Significantly better than England average
+00KF,E06000033,Southend-on-Sea UA,ONS1.1,2009 - 11,66,495933,22,165311,13.3,8.3,20.1,Not significantly different from England average
+00KG,E06000034,Thurrock UA,ONS5.8,2009 - 11,48,478974,16,159658,10,5.7,16.3,Not significantly different from England average
+00LC,E06000035,Medway UA,ONS5.8,2009 - 11,67,770097,22,256699,8.7,5.4,13,Significantly better than England average
+00MA,E06000036,Bracknell Forest UA,ONS5.9,2009 - 11,31,349614,10,116538,8.9,4.1,15.8,Not significantly different from England average
+00MB,E06000037,West Berkshire UA,ONS5.9,2009 - 11,24,461925,8,153975,5.2,2.2,10.2,Significantly better than England average
+00MC,E06000038,Reading UA,ONS1.3,2009 - 11,165,462702,55,154234,35.7,26.9,46.4,Significantly worse than England average
+00MD,E06000039,Slough UA,ONS2.4,2009 - 11,217,393252,72,131084,55.2,43,69.2,Significantly worse than England average
+00ME,E06000040,Windsor and Maidenhead UA,ONS5.9,2009 - 11,32,438444,11,146148,7.3,3.8,13.5,Significantly better than England average
+00MF,E06000041,Wokingham UA,ONS5.9,2009 - 11,36,489666,12,163222,7.4,3.8,12.8,Significantly better than England average
+00MG,E06000042,Milton Keynes UA,ONS5.8,2009 - 11,95,724491,32,241497,13.1,9.1,18.7,Not significantly different from England average
+00ML,E06000043,Brighton and Hove UA,ONS1.1,2009 - 11,83,776286,28,258762,10.7,7.2,15.6,Not significantly different from England average
+00MR,E06000044,Portsmouth UA,ONS1.1,2009 - 11,73,621363,24,207121,11.7,7.4,17.2,Not significantly different from England average
+00MS,E06000045,Southampton UA,ONS1.1,2009 - 11,112,719196,37,239732,15.6,10.9,21.3,Not significantly different from England average
+00MW,E06000046,Isle of Wight UA,ONS6.10,2009 - 11,12,421473,4,140491,2.8,0.8,7.3,Significantly better than England average
+11UB,E07000004,Aylesbury Vale CD,ONS5.9,2009 - 11,37,523227,12,174409,7.1,3.6,12,Significantly better than England average
+11UC,E07000005,Chiltern CD,ONS5.9,2009 - 11,11,274143,4,91381,4,1.2,11.2,Significantly better than England average
+11UE,E07000006,South Bucks CD,ONS5.9,2009 - 11,13,202431,4,67477,6.4,1.6,15.2,Significantly better than England average
+11UF,E07000007,Wycombe CD,ONS5.9,2009 - 11,68,494415,23,164805,13.8,8.8,20.9,Not significantly different from England average
+12UB,E07000008,Cambridge CD,ONS1.3,2009 - 11,38,377151,13,125717,10.1,5.5,17.7,Not significantly different from England average
+12UC,E07000009,East Cambridgeshire CD,ONS5.7,2009 - 11,8,254793,3,84931,3.1,0.7,10.3,Significantly better than England average
+12UD,E07000010,Fenland CD,ONS5.7,2009 - 11,11,275781,4,91927,4,1.2,11.1,Significantly better than England average
+12UE,E07000011,Huntingdonshire CD,ONS5.7,2009 - 11,29,501903,10,167301,5.8,2.9,11,Significantly better than England average
+12UG,E07000012,South Cambridgeshire CD,ONS5.9,2009 - 11,19,439218,6,146406,4.3,1.5,8.9,Significantly better than England average
+16UB,E07000026,Allerdale CD,ONS6.10,2009 - 11,1,282258,0,94086,0.4,0,3.9,Significantly better than England average
+16UC,E07000027,Barrow-in-Furness CD,ONS7.11,2009 - 11,8,211962,3,70654,3.8,0.9,12.4,Significantly better than England average
+16UD,E07000028,Carlisle CD,ONS6.10,2009 - 11,1,313617,0,104539,0.3,0,3.5,Significantly better than England average
+16UE,E07000029,Copeland CD,ONS7.11,2009 - 11,2,208539,1,69513,1,0,8,Significantly better than England average
+16UF,E07000030,Eden CD,ONS6.10,2009 - 11,0,155451,0,51817,0,0,7.1,Significantly better than England average
+16UG,E07000031,South Lakeland CD,ONS6.10,2009 - 11,12,311223,4,103741,3.9,1.1,9.9,Significantly better than England average
+17UB,E07000032,Amber Valley CD,ONS7.12,2009 - 11,12,364770,4,121590,3.3,0.9,8.4,Significantly better than England average
+17UC,E07000033,Bolsover CD,ONS7.12,2009 - 11,6,223716,2,74572,2.7,0.3,9.7,Significantly better than England average
+17UD,E07000034,Chesterfield CD,ONS7.12,2009 - 11,15,303108,5,101036,4.9,1.6,11.5,Significantly better than England average
+17UF,E07000035,Derbyshire Dales CD,ONS5.7,2009 - 11,7,211167,2,70389,3.3,0.3,10.3,Significantly better than England average
+17UG,E07000036,Erewash CD,ONS7.12,2009 - 11,13,333900,4,111300,3.9,1,9.2,Significantly better than England average
+17UH,E07000037,High Peak CD,ONS5.7,2009 - 11,12,277827,4,92609,4.3,1.2,11.1,Significantly better than England average
+17UJ,E07000038,North East Derbyshire CD,ONS7.12,2009 - 11,5,294945,2,98315,1.7,0.2,7.3,Significantly better than England average
+17UK,E07000039,South Derbyshire CD,ONS5.7,2009 - 11,17,281739,6,93913,6,2.3,13.9,Significantly better than England average
+18UB,E07000040,East Devon CD,ONS6.10,2009 - 11,12,398571,4,132857,3,0.8,7.7,Significantly better than England average
+18UC,E07000041,Exeter CD,ONS1.1,2009 - 11,18,358854,6,119618,5,1.8,10.9,Significantly better than England average
+18UD,E07000042,Mid Devon CD,ONS5.7,2009 - 11,4,228264,1,76088,1.8,0,7.3,Significantly better than England average
+18UE,E07000043,North Devon CD,ONS6.10,2009 - 11,1,274416,0,91472,0.4,0,4,Significantly better than England average
+18UG,E07000044,South Hams CD,ONS6.10,2009 - 11,10,251172,3,83724,4,0.7,10.5,Significantly better than England average
+18UH,E07000045,Teignbridge CD,ONS6.10,2009 - 11,22,381873,7,127291,5.8,2.2,11.3,Significantly better than England average
+18UK,E07000046,Torridge CD,ONS6.10,2009 - 11,0,197493,0,65831,0,0,5.6,Significantly better than England average
+18UL,E07000047,West Devon CD,ONS6.10,2009 - 11,3,159189,1,53063,1.9,0,10.5,Significantly better than England average
+19UC,E07000048,Christchurch CD,ONS6.10,2009 - 11,6,141906,2,47302,4.2,0.5,15.3,Significantly better than England average
+19UD,E07000049,East Dorset CD,ONS5.7,2009 - 11,7,263484,2,87828,2.7,0.3,8.2,Significantly better than England average
+19UE,E07000050,North Dorset CD,ONS5.7,2009 - 11,9,192675,3,64225,4.7,1,13.7,Significantly better than England average
+19UG,E07000051,Purbeck CD,ONS6.10,2009 - 11,8,135570,3,45190,5.9,1.4,19.4,Not significantly different from England average
+19UH,E07000052,West Dorset CD,ONS6.10,2009 - 11,6,290136,2,96712,2.1,0.3,7.5,Significantly better than England average
+19UJ,E07000053,Weymouth and Portland CD,ONS6.10,2009 - 11,7,190596,2,63532,3.7,0.4,11.4,Significantly better than England average
+21UC,E07000061,Eastbourne CD,ONS1.1,2009 - 11,20,290916,7,96972,6.9,2.9,14.9,Significantly better than England average
+21UD,E07000062,Hastings CD,ONS1.1,2009 - 11,16,261513,5,87171,6.1,1.9,13.4,Significantly better than England average
+21UF,E07000063,Lewes CD,ONS5.7,2009 - 11,16,292398,5,97466,5.5,1.7,12,Significantly better than England average
+21UG,E07000064,Rother CD,ONS6.10,2009 - 11,6,269451,2,89817,2.2,0.3,8,Significantly better than England average
+21UH,E07000065,Wealden CD,ONS5.7,2009 - 11,14,432288,5,144096,3.2,1.1,8.1,Significantly better than England average
+22UB,E07000066,Basildon CD,ONS5.8,2009 - 11,41,525636,14,175212,7.8,4.4,13.4,Significantly better than England average
+22UC,E07000067,Braintree CD,ONS5.7,2009 - 11,13,432096,4,144032,3,0.8,7.1,Significantly better than England average
+22UD,E07000068,Brentwood CD,ONS5.9,2009 - 11,12,224355,4,74785,5.3,1.5,13.7,Significantly better than England average
+22UE,E07000069,Castle Point CD,ONS5.7,2009 - 11,7,268206,2,89402,2.6,0.3,8.1,Significantly better than England average
+22UF,E07000070,Chelmsford CD,ONS5.9,2009 - 11,20,508626,7,169542,3.9,1.7,8.5,Significantly better than England average
+22UG,E07000071,Colchester CD,ONS5.7,2009 - 11,36,543048,12,181016,6.6,3.4,11.6,Significantly better than England average
+22UH,E07000072,Epping Forest CD,ONS5.9,2009 - 11,22,374214,7,124738,5.9,2.3,11.6,Significantly better than England average
+22UJ,E07000073,Harlow CD,ONS5.8,2009 - 11,26,244974,9,81658,10.6,5,20.9,Not significantly different from England average
+22UK,E07000074,Maldon CD,ONS5.7,2009 - 11,5,189726,2,63242,2.6,0.4,11.4,Significantly better than England average
+22UL,E07000075,Rochford CD,ONS5.9,2009 - 11,8,250062,3,83354,3.2,0.7,10.5,Significantly better than England average
+22UN,E07000076,Tendring CD,ONS6.10,2009 - 11,12,445629,4,148543,2.7,0.7,6.9,Significantly better than England average
+22UQ,E07000077,Uttlesford CD,ONS5.9,2009 - 11,8,232503,3,77501,3.4,0.8,11.3,Significantly better than England average
+23UB,E07000078,Cheltenham CD,ONS5.7,2009 - 11,21,345789,7,115263,6.1,2.4,12.5,Significantly better than England average
+23UC,E07000079,Cotswold CD,ONS5.7,2009 - 11,6,250614,2,83538,2.4,0.3,8.6,Significantly better than England average
+23UD,E07000080,Forest of Dean CD,ONS5.7,2009 - 11,1,248637,0,82879,0.4,0,4.5,Significantly better than England average
+23UE,E07000081,Gloucester CD,ONS5.8,2009 - 11,28,355320,9,118440,7.9,3.5,14.4,Significantly better than England average
+23UF,E07000082,Stroud CD,ONS5.7,2009 - 11,7,335151,2,111717,2.1,0.2,6.5,Significantly better than England average
+23UG,E07000083,Tewkesbury CD,ONS5.7,2009 - 11,7,245070,2,81690,2.9,0.3,8.8,Significantly better than England average
+24UB,E07000084,Basingstoke and Deane CD,ONS5.9,2009 - 11,36,495360,12,165120,7.3,3.8,12.7,Significantly better than England average
+24UC,E07000085,East Hampshire CD,ONS5.9,2009 - 11,14,337734,5,112578,4.1,1.4,10.4,Significantly better than England average
+24UD,E07000086,Eastleigh CD,ONS5.7,2009 - 11,19,367110,6,122370,5.2,1.8,10.7,Significantly better than England average
+24UE,E07000087,Fareham CD,ONS5.7,2009 - 11,7,336324,2,112108,2.1,0.2,6.4,Significantly better than England average
+24UF,E07000088,Gosport CD,ONS5.8,2009 - 11,17,239676,6,79892,7.1,2.8,16.3,Not significantly different from England average
+24UG,E07000089,Hart CD,ONS5.9,2009 - 11,8,273567,3,91189,2.9,0.7,9.6,Significantly better than England average
+24UH,E07000090,Havant CD,ONS7.12,2009 - 11,4,350523,1,116841,1.1,0,4.8,Significantly better than England average
+24UJ,E07000091,New Forest CD,ONS5.7,2009 - 11,12,531063,4,177021,2.3,0.6,5.8,Significantly better than England average
+24UL,E07000092,Rushmoor CD,ONS5.8,2009 - 11,65,275934,22,91978,23.6,15,36.2,Not significantly different from England average
+24UN,E07000093,Test Valley CD,ONS5.9,2009 - 11,21,340395,7,113465,6.2,2.5,12.7,Significantly better than England average
+24UP,E07000094,Winchester CD,ONS5.9,2009 - 11,12,342756,4,114252,3.5,1,9,Significantly better than England average
+26UB,E07000095,Broxbourne CD,ONS5.8,2009 - 11,13,271827,4,90609,4.8,1.2,11.3,Significantly better than England average
+26UC,E07000096,Dacorum CD,ONS5.9,2009 - 11,24,428643,8,142881,5.6,2.4,11,Significantly better than England average
+26UD,E07000097,East Hertfordshire CD,ONS5.9,2009 - 11,10,415428,3,138476,2.4,0.4,6.3,Significantly better than England average
+26UE,E07000098,Hertsmere CD,ONS5.9,2009 - 11,37,299772,12,99924,12.3,6.2,21,Not significantly different from England average
+26UF,E07000099,North Hertfordshire CD,ONS5.9,2009 - 11,29,377427,10,125809,7.7,3.8,14.6,Significantly better than England average
+26UG,E07000240,St Albans CD,ONS5.9,2009 - 11,30,416259,10,138753,7.2,3.5,13.3,Significantly better than England average
+26UH,E07000101,Stevenage CD,ONS5.8,2009 - 11,32,245298,11,81766,13,6.7,24.1,Not significantly different from England average
+26UJ,E07000102,Three Rivers CD,ONS5.9,2009 - 11,17,266796,6,88932,6.4,2.5,14.7,Significantly better than England average
+26UK,E07000103,Watford CD,ONS1.3,2009 - 11,52,258009,17,86003,20.2,11.5,31.6,Not significantly different from England average
+26UL,E07000241,Welwyn Hatfield CD,ONS5.7,2009 - 11,46,343104,15,114368,13.4,7.3,21.6,Not significantly different from England average
+29UB,E07000105,Ashford CD,ONS5.7,2009 - 11,35,346599,12,115533,10.1,5.4,18.1,Not significantly different from England average
+29UC,E07000106,Canterbury CD,ONS5.7,2009 - 11,40,459567,13,153189,8.7,4.5,14.5,Significantly better than England average
+29UD,E07000107,Dartford CD,ONS5.8,2009 - 11,30,283665,10,94555,10.6,5.1,19.4,Not significantly different from England average
+29UE,E07000108,Dover CD,ONS6.10,2009 - 11,21,320793,7,106931,6.5,2.6,13.5,Significantly better than England average
+29UG,E07000109,Gravesham CD,ONS5.8,2009 - 11,58,298653,19,99551,19.4,11.5,29.8,Not significantly different from England average
+29UH,E07000110,Maidstone CD,ONS5.7,2009 - 11,22,449472,7,149824,4.9,1.9,9.6,Significantly better than England average
+29UK,E07000111,Sevenoaks CD,ONS5.9,2009 - 11,16,342261,5,114087,4.7,1.4,10.2,Significantly better than England average
+29UL,E07000112,Shepway CD,ONS6.10,2009 - 11,31,303603,10,101201,10.2,4.7,18.2,Not significantly different from England average
+29UM,E07000113,Swale CD,ONS7.12,2009 - 11,19,400311,6,133437,4.7,1.7,9.8,Significantly better than England average
+29UN,E07000114,Thanet CD,ONS6.10,2009 - 11,18,396507,6,132169,4.5,1.7,9.9,Significantly better than England average
+29UP,E07000115,Tonbridge and Malling CD,ONS5.9,2009 - 11,19,356304,6,118768,5.3,1.9,11,Significantly better than England average
+29UQ,E07000116,Tunbridge Wells CD,ONS5.9,2009 - 11,17,324519,6,108173,5.2,2,12.1,Significantly better than England average
+30UD,E07000117,Burnley CD,ONS1.2,2009 - 11,39,255903,13,85301,15.2,8.1,26.1,Not significantly different from England average
+30UE,E07000118,Chorley CD,ONS5.7,2009 - 11,6,316296,2,105432,1.9,0.2,6.9,Significantly better than England average
+30UF,E07000119,Fylde CD,ONS6.10,2009 - 11,12,229770,4,76590,5.2,1.4,13.4,Significantly better than England average
+30UG,E07000120,Hyndburn CD,ONS1.2,2009 - 11,28,243366,9,81122,11.5,5.1,21.1,Not significantly different from England average
+30UH,E07000121,Lancaster CD,ONS1.1,2009 - 11,16,423198,5,141066,3.8,1.2,8.3,Significantly better than England average
+30UJ,E07000122,Pendle CD,ONS1.2,2009 - 11,72,267849,24,89283,26.9,17.2,40,Significantly worse than England average
+30UK,E07000123,Preston CD,ONS1.2,2009 - 11,102,405243,34,135081,25.2,17.4,35.2,Significantly worse than England average
+30UL,E07000124,Ribble Valley CD,ONS5.7,2009 - 11,5,173976,2,57992,2.9,0.4,12.5,Significantly better than England average
+30UM,E07000125,Rossendale CD,ONS7.12,2009 - 11,8,202188,3,67396,4,0.9,13,Significantly better than England average
+30UN,E07000126,South Ribble CD,ONS5.7,2009 - 11,16,325047,5,108349,4.9,1.5,10.8,Significantly better than England average
+30UP,E07000127,West Lancashire CD,ONS5.7,2009 - 11,5,330801,2,110267,1.5,0.2,6.6,Significantly better than England average
+30UQ,E07000128,Wyre CD,ONS6.10,2009 - 11,18,334173,6,111391,5.4,2,11.7,Significantly better than England average
+31UB,E07000129,Blaby CD,ONS5.7,2009 - 11,20,282063,7,94021,7.1,3,15.3,Significantly better than England average
+31UC,E07000130,Charnwood CD,ONS5.7,2009 - 11,56,500481,19,166827,11.2,6.9,17.8,Not significantly different from England average
+31UD,E07000131,Harborough CD,ONS5.7,2009 - 11,5,252036,2,84012,2,0.3,8.6,Significantly better than England average
+31UE,E07000132,Hinckley and Bosworth CD,ONS5.7,2009 - 11,8,315246,3,105082,2.5,0.6,8.3,Significantly better than England average
+31UG,E07000133,Melton CD,ONS5.7,2009 - 11,3,148425,1,49475,2,0.1,11.3,Significantly better than England average
+31UH,E07000134,North West Leicestershire CD,ONS5.7,2009 - 11,6,272349,2,90783,2.2,0.3,8,Significantly better than England average
+31UJ,E07000135,Oadby and Wigston CD,ONS5.7,2009 - 11,24,175644,8,58548,13.7,5.9,26.9,Not significantly different from England average
+32UB,E07000136,Boston CD,ONS5.7,2009 - 11,9,177126,3,59042,5.1,1,14.8,Significantly better than England average
+32UC,E07000137,East Lindsey CD,ONS6.10,2009 - 11,10,424899,3,141633,2.4,0.4,6.2,Significantly better than England average
+32UD,E07000138,Lincoln CD,ONS1.1,2009 - 11,8,269004,3,89668,3,0.7,9.8,Significantly better than England average
+32UE,E07000139,North Kesteven CD,ONS5.7,2009 - 11,8,319296,3,106432,2.5,0.6,8.2,Significantly better than England average
+32UF,E07000140,South Holland CD,ONS5.7,2009 - 11,12,253683,4,84561,4.7,1.3,12.1,Significantly better than England average
+32UG,E07000141,South Kesteven CD,ONS5.7,2009 - 11,14,396813,5,132271,3.5,1.2,8.8,Significantly better than England average
+32UH,E07000142,West Lindsey CD,ONS5.7,2009 - 11,9,268203,3,89401,3.4,0.7,9.8,Significantly better than England average
+33UB,E07000143,Breckland CD,ONS5.7,2009 - 11,12,392775,4,130925,3.1,0.8,7.8,Significantly better than England average
+33UC,E07000144,Broadland CD,ONS5.7,2009 - 11,6,371028,2,123676,1.6,0.2,5.8,Significantly better than England average
+33UD,E07000145,Great Yarmouth CD,ONS6.10,2009 - 11,32,291537,11,97179,11,5.7,20.3,Not significantly different from England average
+33UE,E07000146,King's Lynn and West Norfolk CD,ONS5.7,2009 - 11,14,430893,5,143631,3.2,1.1,8.1,Significantly better than England average
+33UF,E07000147,North Norfolk CD,ONS6.10,2009 - 11,11,305001,4,101667,3.6,1.1,10.1,Significantly better than England average
+33UG,E07000148,Norwich CD,ONS1.1,2009 - 11,33,430464,11,143488,7.7,3.8,13.7,Significantly better than England average
+33UH,E07000149,South Norfolk CD,ONS5.7,2009 - 11,8,365340,3,121780,2.2,0.5,7.2,Significantly better than England average
+34UB,E07000150,Corby CD,ONS7.12,2009 - 11,28,167499,9,55833,16.7,7.4,30.6,Not significantly different from England average
+34UC,E07000151,Daventry CD,ONS5.7,2009 - 11,12,236877,4,78959,5.1,1.4,13,Significantly better than England average
+34UD,E07000152,East Northamptonshire CD,ONS5.7,2009 - 11,10,255753,3,85251,3.9,0.7,10.3,Significantly better than England average
+34UE,E07000153,Kettering CD,ONS5.7,2009 - 11,21,271893,7,90631,7.7,3.1,15.9,Not significantly different from England average
+34UF,E07000154,Northampton CD,ONS5.8,2009 - 11,113,636390,38,212130,17.8,12.7,24.6,Not significantly different from England average
+34UG,E07000155,South Northamptonshire CD,ONS5.7,2009 - 11,5,266346,2,88782,1.9,0.3,8.1,Significantly better than England average
+34UH,E07000156,Wellingborough CD,ONS5.8,2009 - 11,27,227199,9,75733,11.9,5.4,22.6,Not significantly different from England average
+36UB,E07000163,Craven CD,ONS6.10,2009 - 11,11,166242,4,55414,6.6,2,18.5,Not significantly different from England average
+36UC,E07000164,Hambleton CD,ONS5.7,2009 - 11,6,262728,2,87576,2.3,0.3,8.2,Significantly better than England average
+36UD,E07000165,Harrogate CD,ONS5.7,2009 - 11,14,476058,5,158686,2.9,1,7.4,Significantly better than England average
+36UE,E07000166,Richmondshire CD,ONS5.7,2009 - 11,5,158871,2,52957,3.1,0.5,13.6,Significantly better than England average
+36UF,E07000167,Ryedale CD,ONS6.10,2009 - 11,3,160674,1,53558,1.9,0,10.4,Significantly better than England average
+36UG,E07000168,Scarborough CD,ONS6.10,2009 - 11,9,325770,3,108590,2.8,0.6,8.1,Significantly better than England average
+36UH,E07000169,Selby CD,ONS5.7,2009 - 11,3,248781,1,82927,1.2,0,6.7,Significantly better than England average
+37UB,E07000170,Ashfield CD,ONS7.12,2009 - 11,11,351024,4,117008,3.1,0.9,8.8,Significantly better than England average
+37UC,E07000171,Bassetlaw CD,ONS7.12,2009 - 11,10,335460,3,111820,3,0.6,7.8,Significantly better than England average
+37UD,E07000172,Broxtowe CD,ONS5.7,2009 - 11,19,335454,6,111818,5.7,2,11.7,Significantly better than England average
+37UE,E07000173,Gedling CD,ONS5.7,2009 - 11,17,339474,6,113158,5,1.9,11.5,Significantly better than England average
+37UF,E07000174,Mansfield CD,ONS7.12,2009 - 11,15,298905,5,99635,5,1.6,11.7,Significantly better than England average
+37UG,E07000175,Newark and Sherwood CD,ONS5.7,2009 - 11,8,340860,3,113620,2.3,0.5,7.7,Significantly better than England average
+37UJ,E07000176,Rushcliffe CD,ONS5.7,2009 - 11,14,338493,5,112831,4.1,1.4,10.3,Significantly better than England average
+38UB,E07000177,Cherwell CD,ONS5.7,2009 - 11,36,421281,12,140427,8.5,4.4,14.9,Significantly better than England average
+38UC,E07000178,Oxford CD,ONS1.3,2009 - 11,108,460986,36,153662,23.4,16.4,32.4,Significantly worse than England average
+38UD,E07000179,South Oxfordshire CD,ONS5.9,2009 - 11,13,392961,4,130987,3.3,0.8,7.8,Significantly better than England average
+38UE,E07000180,Vale of White Horse CD,ONS5.9,2009 - 11,19,359442,6,119814,5.3,1.8,10.9,Significantly better than England average
+38UF,E07000181,West Oxfordshire CD,ONS5.7,2009 - 11,8,311496,3,103832,2.6,0.6,8.4,Significantly better than England average
+40UB,E07000187,Mendip CD,ONS5.7,2009 - 11,7,327054,2,109018,2.1,0.2,6.6,Significantly better than England average
+40UC,E07000188,Sedgemoor CD,ONS5.7,2009 - 11,8,338394,3,112798,2.4,0.5,7.8,Significantly better than England average
+40UD,E07000189,South Somerset CD,ONS5.7,2009 - 11,11,475881,4,158627,2.3,0.7,6.5,Significantly better than England average
+40UE,E07000190,Taunton Deane CD,ONS5.7,2009 - 11,9,328137,3,109379,2.7,0.6,8,Significantly better than England average
+40UF,E07000191,West Somerset CD,ONS6.10,2009 - 11,2,106092,1,35364,1.9,0.1,15.8,Not significantly different from England average
+41UB,E07000192,Cannock Chase CD,ONS7.12,2009 - 11,3,284022,1,94674,1.1,0,5.9,Significantly better than England average
+41UC,E07000193,East Staffordshire CD,ONS7.12,2009 - 11,49,328341,16,109447,14.9,8.4,23.7,Not significantly different from England average
+41UD,E07000194,Lichfield CD,ONS5.7,2009 - 11,8,296058,3,98686,2.7,0.6,8.9,Significantly better than England average
+41UE,E07000195,Newcastle-under-Lyme CD,ONS7.12,2009 - 11,16,373479,5,124493,4.3,1.3,9.4,Significantly better than England average
+41UF,E07000196,South Staffordshire CD,ONS5.7,2009 - 11,10,319776,3,106592,3.1,0.6,8.2,Significantly better than England average
+41UG,E07000197,Stafford CD,ONS5.7,2009 - 11,21,377904,7,125968,5.6,2.2,11.4,Significantly better than England average
+41UH,E07000198,Staffordshire Moorlands CD,ONS5.7,2009 - 11,6,286281,2,95427,2.1,0.3,7.6,Significantly better than England average
+41UK,E07000199,Tamworth CD,ONS7.12,2009 - 11,9,228009,3,76003,3.9,0.8,11.5,Significantly better than England average
+42UB,E07000200,Babergh CD,ONS5.7,2009 - 11,7,256683,2,85561,2.7,0.3,8.4,Significantly better than England average
+42UC,E07000201,Forest Heath CD,ONS5.8,2009 - 11,7,193035,2,64345,3.6,0.4,11.2,Significantly better than England average
+42UD,E07000202,Ipswich CD,ONS5.8,2009 - 11,34,384807,11,128269,8.8,4.3,15.3,Significantly better than England average
+42UE,E07000203,Mid Suffolk CD,ONS5.7,2009 - 11,5,284961,2,94987,1.8,0.3,7.6,Significantly better than England average
+42UF,E07000204,St Edmundsbury CD,ONS5.7,2009 - 11,19,313599,6,104533,6.1,2.1,12.5,Significantly better than England average
+42UG,E07000205,Suffolk Coastal CD,ONS5.7,2009 - 11,14,372843,5,124281,3.8,1.3,9.4,Significantly better than England average
+42UH,E07000206,Waveney CD,ONS6.10,2009 - 11,18,352605,6,117535,5.1,1.9,11.1,Significantly better than England average
+43UB,E07000207,Elmbridge CD,ONS5.9,2009 - 11,25,395790,8,131930,6.3,2.6,11.9,Significantly better than England average
+43UC,E07000208,Epsom and Ewell CD,ONS5.9,2009 - 11,17,222816,6,74272,7.6,3,17.6,Not significantly different from England average
+43UD,E07000209,Guildford CD,ONS5.9,2009 - 11,27,411186,9,137062,6.6,3,12.5,Significantly better than England average
+43UE,E07000210,Mole Valley CD,ONS5.9,2009 - 11,8,253890,3,84630,3.2,0.7,10.4,Significantly better than England average
+43UF,E07000211,Reigate and Banstead CD,ONS5.9,2009 - 11,31,415917,10,138639,7.5,3.5,13.3,Significantly better than England average
+43UG,E07000212,Runnymede CD,ONS5.9,2009 - 11,17,257760,6,85920,6.6,2.6,15.2,Significantly better than England average
+43UH,E07000213,Spelthorne CD,ONS5.9,2009 - 11,37,280398,12,93466,13.2,6.6,22.4,Not significantly different from England average
+43UJ,E07000214,Surrey Heath CD,ONS5.9,2009 - 11,21,253530,7,84510,8.3,3.3,17.1,Not significantly different from England average
+43UK,E07000215,Tandridge CD,ONS5.9,2009 - 11,7,249426,2,83142,2.8,0.3,8.7,Significantly better than England average
+43UL,E07000216,Waverley CD,ONS5.9,2009 - 11,16,360756,5,120252,4.4,1.4,9.7,Significantly better than England average
+43UM,E07000217,Woking CD,ONS5.9,2009 - 11,65,280497,22,93499,23.2,14.7,35.6,Not significantly different from England average
+44UB,E07000218,North Warwickshire CD,ONS5.7,2009 - 11,13,185616,4,61872,7,1.8,16.6,Not significantly different from England average
+44UC,E07000219,Nuneaton and Bedworth CD,ONS7.12,2009 - 11,37,366543,12,122181,10.1,5.1,17.2,Not significantly different from England average
+44UD,E07000220,Rugby CD,ONS5.7,2009 - 11,36,282564,12,94188,12.7,6.6,22.3,Not significantly different from England average
+44UE,E07000221,Stratford-on-Avon CD,ONS5.7,2009 - 11,15,356955,5,118985,4.2,1.4,9.8,Significantly better than England average
+44UF,E07000222,Warwick CD,ONS5.7,2009 - 11,41,416268,14,138756,9.8,5.5,16.9,Not significantly different from England average
+45UB,E07000223,Adur CD,ONS5.7,2009 - 11,9,184890,3,61630,4.9,1,14.2,Significantly better than England average
+45UC,E07000224,Arun CD,ONS6.10,2009 - 11,21,451683,7,150561,4.6,1.9,9.6,Significantly better than England average
+45UD,E07000225,Chichester CD,ONS6.10,2009 - 11,16,340509,5,113503,4.7,1.4,10.3,Significantly better than England average
+45UE,E07000226,Crawley CD,ONS5.8,2009 - 11,63,322686,21,107562,19.5,12.1,29.8,Not significantly different from England average
+45UF,E07000227,Horsham CD,ONS5.9,2009 - 11,6,392430,2,130810,1.5,0.2,5.5,Significantly better than England average
+45UG,E07000228,Mid Sussex CD,ONS5.9,2009 - 11,34,397368,11,132456,8.6,4.1,14.9,Significantly better than England average
+45UH,E07000229,Worthing CD,ONS1.1,2009 - 11,26,309537,9,103179,8.4,4,16.6,Not significantly different from England average
+47UB,E07000234,Bromsgrove CD,ONS5.7,2009 - 11,1,280323,0,93441,0.4,0,3.9,Significantly better than England average
+47UC,E07000235,Malvern Hills CD,ONS5.7,2009 - 11,10,226143,3,75381,4.4,0.8,11.6,Significantly better than England average
+47UD,E07000236,Redditch CD,ONS7.12,2009 - 11,11,235998,4,78666,4.7,1.4,13,Significantly better than England average
+47UE,E07000237,Worcester CD,ONS5.8,2009 - 11,18,284289,6,94763,6.3,2.3,13.8,Significantly better than England average
+47UF,E07000238,Wychavon CD,ONS5.7,2009 - 11,12,351084,4,117028,3.4,0.9,8.8,Significantly better than England average
+47UG,E07000239,Wyre Forest CD,ONS5.7,2009 - 11,7,294441,2,98147,2.4,0.2,7.4,Significantly better than England average
